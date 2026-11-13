@@ -16,7 +16,6 @@ nav_order: 2
   <div class="ey-pub-title"><span class="ey-venue">M.S.</span><b>오가노이드 이미지에서 정상 및 비정상 혈관구조 분류를 위한 경량 딥러닝 모델 연구</b></div>
   <div class="ey-authors"><b>윤은수</b></div>
   <div class="ey-meta">상명대학교 대학원 컴퓨터과학과 석사학위논문 · 2026.02.24</div>
-  <div class="ey-pills"><span class="ey-pill">단독저자</span></div>
   <div class="ey-links"><a href="{{ '/projects/organoid/' | relative_url }}">프로젝트</a></div>
 </div>
 </div>
@@ -43,7 +42,7 @@ nav_order: 2
 <h2>국제 학술대회</h2>
 <div class="ey-pub">
   <div class="ey-pub-title"><span class="ey-venue">ICGHIT 2025</span><b>Hybrid Iris Recognition for Authentication Systems in AI Edge Device (NPU) Environments</b></div>
-  <div class="ey-authors"><b>윤은수</b> 외 4명 (2/5)</div>
+  <div class="ey-authors">Hui-Jae Bae, <b>Eun-Su Yun</b>, Seon-Kyun Park, Jong-Weon Kim, Dae-Sik Jung</div>
   <div class="ey-meta">International Conference on Green and Human Information Technology (ICGHIT) 2025 · 2025.01.15</div>
   <div class="ey-pills"><span class="ey-pill">공동저자</span><span class="ey-pill">Oral</span></div>
   <div class="ey-links"><a href="{{ '/projects/iris/' | relative_url }}">프로젝트</a></div>
@@ -54,7 +53,7 @@ nav_order: 2
 <h2>국내 학술대회</h2>
 <div class="ey-pub">
   <div class="ey-pub-title"><span class="ey-venue">IEIE 2025</span><b>NPU 기반 실시간 홍채 인식 시스템 구현 및 처리 시간 분석</b></div>
-  <div class="ey-authors"><b>윤은수</b> 외 6명</div>
+  <div class="ey-authors">배희재, <b>윤은수</b>, 이동원, 박선균, 김성한, 김종원, 정대식</div>
   <div class="ey-meta">2025년도 대한전자공학회 하계종합학술대회 · 2025.06.24</div>
   <div class="ey-pills"><span class="ey-pill">공동 1저자</span></div>
   <div class="ey-links"><a href="{{ '/projects/iris/' | relative_url }}">프로젝트</a></div>
@@ -68,7 +67,7 @@ nav_order: 2
 </div>
 <div class="ey-pub">
   <div class="ey-pub-title"><span class="ey-venue">CEIC 2023</span><b>딥러닝 기반의 지폐 일련번호 인식에 관한 연구</b></div>
-  <div class="ey-authors"><b>윤은수</b> 외 1명</div>
+  <div class="ey-authors"><b>윤은수</b>, 정대식</div>
   <div class="ey-meta">제25회 전자정보통신학술대회 (CEIC 2023) · 2023.12.08</div>
   <div class="ey-pills"><span class="ey-pill">1저자</span><span class="ey-pill">Poster</span></div>
   <div class="ey-links"><a href="{{ '/projects/banknote/' | relative_url }}">프로젝트</a></div>

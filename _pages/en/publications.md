@@ -16,7 +16,6 @@ nav_order: 2
   <div class="ey-pub-title"><span class="ey-venue">M.S.</span><b>A Study on Lightweight Deep Learning Model for Classification of Normal and Abnormal Vasculature in Organoid Images</b></div>
   <div class="ey-authors"><b>Eunsu Yun</b></div>
   <div class="ey-meta">M.S. Thesis, Department of Computer Science, Sangmyung University · Feb 24, 2026</div>
-  <div class="ey-pills"><span class="ey-pill">Sole Author</span></div>
   <div class="ey-links"><a href="{{ '/en/projects/organoid/' | relative_url }}">Project</a></div>
 </div>
 </div>
@@ -43,7 +42,7 @@ nav_order: 2
 <h2>International Conference</h2>
 <div class="ey-pub">
   <div class="ey-pub-title"><span class="ey-venue">ICGHIT 2025</span><b>Hybrid Iris Recognition for Authentication Systems in AI Edge Device (NPU) Environments</b></div>
-  <div class="ey-authors"><b>Eunsu Yun</b> et al. (2/5)</div>
+  <div class="ey-authors">Hui-Jae Bae, <b>Eun-Su Yun</b>, Seon-Kyun Park, Jong-Weon Kim, Dae-Sik Jung</div>
   <div class="ey-meta">International Conference on Green and Human Information Technology (ICGHIT) 2025 · Jan 15, 2025</div>
   <div class="ey-pills"><span class="ey-pill">Co-author</span><span class="ey-pill">Oral</span></div>
   <div class="ey-links"><a href="{{ '/en/projects/iris/' | relative_url }}">Project</a></div>
@@ -54,7 +53,7 @@ nav_order: 2
 <h2>Domestic Conference</h2>
 <div class="ey-pub">
   <div class="ey-pub-title"><span class="ey-venue">IEIE 2025</span><b>NPU-based real-time iris recognition System implementation and processing time analysis</b></div>
-  <div class="ey-authors"><b>Eunsu Yun</b> et al.</div>
+  <div class="ey-authors">Huijae Bae, <b>Eunsu Yun</b>, Dongwon Lee, SeonKyun Park, SeongHan Kim, JongWeon Kim, DaeSik Jung</div>
   <div class="ey-meta">IEIE Summer Annual Conference 2025 · Jun 24, 2025</div>
   <div class="ey-pills"><span class="ey-pill">Co-first Author</span></div>
   <div class="ey-links"><a href="{{ '/en/projects/iris/' | relative_url }}">Project</a></div>
@@ -68,7 +67,7 @@ nav_order: 2
 </div>
 <div class="ey-pub">
   <div class="ey-pub-title"><span class="ey-venue">CEIC 2023</span><b>A Study on deep learning based banknote serial number recognition</b></div>
-  <div class="ey-authors"><b>Eunsu Yun</b> et al.</div>
+  <div class="ey-authors"><b>Eunsu Yun</b>, Daesik Jeong</div>
   <div class="ey-meta">The 25th Conference on Electronics, Information and Communications (CEIC 2023) · Dec 8, 2023</div>
   <div class="ey-pills"><span class="ey-pill">First Author</span><span class="ey-pill">Poster</span></div>
   <div class="ey-links"><a href="{{ '/en/projects/banknote/' | relative_url }}">Project</a></div>
