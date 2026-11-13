@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Eunsu Yun
 nav_title: About
 description: Computer Vision · On-Device AI · Physical AI
@@ -10,37 +10,33 @@ nav: true
 nav_order: 1
 ---
 
-<div class="ey-section ey-profile" style="margin-top:0.5rem">
-<div class="ey-profile-text">
-<p>
-My work centers on deep learning for computer vision and <b>on-device AI optimization</b>.
-To make models run efficiently on constrained hardware, I have handled the full pipeline myself —
-from model design to <b>compression, quantization (FP16/INT8), NPU deployment, and performance validation</b>.
-</p>
-<p>
-I received my M.S. in Computer Science from Sangmyung University, where I worked in the Computer Vision Lab (CCLAB)
+<div class="post">
+<div class="ey-hero">
+  <div class="ey-hero-photo"><img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Eunsu Yun"></div>
+  <div class="ey-hero-body">
+    <h1 class="ey-hero-name">Eunsu Yun</h1>
+    <div class="ey-hero-sub">M.S. in Computer Science @ Sangmyung University</div>
+    <div class="ey-hero-links">
+      <a href="mailto:hkhk0331@gmail.com">hkhk0331@gmail.com</a><span>/</span>
+      <a href="https://github.com/sillverwater">GitHub</a><span>/</span>
+      <a href="{{ '/assets/cv.pdf' | relative_url }}">CV</a>
+    </div>
+    <p>Welcome! My work centers on deep learning for computer vision and <b>on-device AI optimization</b>.
+To make models run efficiently on constrained hardware, I have handled the full pipeline myself — from model design to
+<b>compression, quantization (FP16/INT8), NPU deployment, and performance validation</b>.</p>
+<p>I received my M.S. in Computer Science from Sangmyung University, where I worked in the Computer Vision Lab (CCLAB)
 on NPU-based on-device AI projects, including organoid vasculature classification, real-time iris recognition,
 and in-vehicle face and emotion recognition. I have optimized models for several NPUs — FuriosaAI Warboy, Mythic, and Kneron —
-as well as NVIDIA Jetson.
-</p>
-<p>
-Recently, I have broadened my interests to <b>Physical AI and robotics</b>, studying robot learning and simulation
-in the NVIDIA AI CAMPUS AI Robotics program. Building on my experience in computer vision and on-device AI,
-I am learning how robots perceive their surroundings and turn that perception into real-world action.
-</p>
-</div>
-<div class="ey-profile-photo"><img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Eunsu Yun"></div>
-</div>
-
-<div class="ey-section">
-<h2>Research Interests</h2>
-<span class="ey-tag">Computer Vision</span>
-<span class="ey-tag">On-device AI</span>
-<span class="ey-tag">Edge AI</span>
-<span class="ey-tag">Model Compression</span>
-<span class="ey-tag">Lightweight Deep Learning</span>
-<span class="ey-tag">Embedded Systems</span>
-<span class="ey-tag">Physical AI</span>
+as well as NVIDIA Jetson.</p>
+<p>Recently, I have broadened my interests to <b>Physical AI and robotics</b>, studying robot learning and simulation
+in the NVIDIA AI CAMPUS AI Robotics program, and learning how robots perceive their surroundings and turn that perception into action.</p>
+    <ul class="ey-hero-list">
+      <li>Computer Vision — Classification, Detection, Segmentation</li>
+      <li>On-Device AI — Model Compression and Quantization (FP16 / INT8)</li>
+      <li>Edge AI — Deployment and Optimization on NPUs and NVIDIA Jetson</li>
+      <li>Physical AI — Robot Learning and Simulation</li>
+    </ul>
+  </div>
 </div>
 
 <div class="ey-section">
@@ -67,10 +63,4 @@ I am learning how robots perceive their surroundings and turn that perception in
 </div>
 </div>
 
-<div class="ey-section">
-<h2>Contact</h2>
-<p>
-<i class="fa-solid fa-envelope"></i>&nbsp; <a href="mailto:hkhk0331@gmail.com">hkhk0331@gmail.com</a><br>
-<i class="fa-brands fa-github"></i>&nbsp; <a href="https://github.com/sillverwater">github.com/sillverwater</a>
-</p>
 </div>
