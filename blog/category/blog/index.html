@@ -54,19 +54,19 @@
   .ey-profile-photo { flex: 0 0 180px; }
   .ey-profile-photo img { width: 180px; height: 220px; object-fit: cover; border-radius: 8px; border: 1px solid var(--global-divider-color); }
   @media (max-width: 576px) { .ey-profile { flex-direction: column-reverse; } .ey-profile-photo { flex-basis: auto; } }
-  .ey-hero { display: flex; gap: 2.5rem; align-items: flex-start; margin-top: 1rem; }
-  .ey-hero-photo { flex: 0 0 300px; }
-  .ey-hero-photo img { width: 300px; height: 400px; object-fit: cover; border-radius: 6px; display: block; }
+  .ey-hero { display: flex; gap: 1.8rem; align-items: flex-start; margin-top: 0.5rem; }
+  .ey-hero-photo { flex: 0 0 200px; }
+  .ey-hero-photo img { width: 200px; height: 260px; object-fit: cover; border-radius: 6px; display: block; }
   .ey-hero-body { flex: 1 1 auto; min-width: 0; }
-  .ey-hero-name { font-size: 2.6rem; font-weight: 700; margin: 0 0 0.3rem; line-height: 1.15; }
-  .ey-hero-en { font-size: 1.4rem; font-weight: 400; color: var(--global-text-color-light); margin-left: 0.4rem; }
-  .ey-hero-sub { font-size: 1.15rem; color: var(--global-text-color-light); margin-bottom: 0.5rem; }
-  .ey-hero-links { margin-bottom: 1.2rem; }
+  .ey-hero-name { font-size: 1.9rem; font-weight: 700; margin: 0 0 0.3rem; line-height: 1.15; }
+  .ey-hero-en { font-size: 1.1rem; font-weight: 400; color: var(--global-text-color-light); margin-left: 0.4rem; }
+  .ey-hero-sub { font-size: 0.98rem; color: var(--global-text-color-light); margin-bottom: 0.5rem; }
+  .ey-hero-links { margin-bottom: 0.9rem; font-size: 0.92rem; }
   .ey-hero-links a { color: var(--global-text-color); text-decoration: underline; text-underline-offset: 3px; }
   .ey-hero-links span { color: var(--global-text-color-light); margin: 0 0.55rem; }
-  .ey-hero-body p { line-height: 1.75; }
-  .ey-hero-list { padding-left: 1.2rem; line-height: 1.9; }
-  @media (max-width: 768px) { .ey-hero { flex-direction: column; } .ey-hero-photo, .ey-hero-photo img { width: 100%; max-width: 320px; flex-basis: auto; height: auto; aspect-ratio: 3 / 4; } }
+  .ey-hero-body p { line-height: 1.6; font-size: 0.93rem; margin-bottom: 0.6rem; }
+  .ey-hero-list { padding-left: 1.1rem; line-height: 1.6; font-size: 0.93rem; margin-bottom: 0; }
+  @media (max-width: 768px) { .ey-hero { flex-direction: column; } .ey-hero-photo, .ey-hero-photo img { width: 100%; max-width: 200px; flex-basis: auto; height: auto; aspect-ratio: 3 / 4; } }
   @media (max-width: 576px) { .ey-item { flex-direction: column; gap: 0.1rem; } .ey-date { flex-basis: auto; } .ey-kv { grid-template-columns: 1fr; } }
 </style> <header> <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top" role="navigation"> <div class="container"> <a class="navbar-brand title font-weight-lighter" href="/"> <span class="font-weight-bold">윤은수</span> </a> <button class="navbar-toggler collapsed navbar-toggler-main" type="button" data-nav-toggle="navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar top-bar"></span> <span class="icon-bar middle-bar"></span> <span class="icon-bar bottom-bar"></span> </button> <div class="collapse navbar-collapse navbar-collapse-main" id="navbarNav"> <ul class="navbar-nav navbar-menu-list flex-nowrap"> <li class="nav-item "> <a class="nav-link" href="/">About </a> </li> <li class="nav-item "> <a class="nav-link" href="/publications/">Publications </a> </li> <li class="nav-item "> <a class="nav-link" href="/projects/">Projects </a> </li> <li class="nav-item "> <a class="nav-link" href="/cv/">CV </a> </li> <li class="nav-item"> <span class="nav-link lang-switch"> <span class="on">KO</span>|<a class="off" href="/en/" lang="en" title="View in English">EN</a> </span> </li> <li class="toggle-container"> <button id="light-toggle" type="button" title="Change theme" aria-label="Change color theme"> <i class="fa-half-sun-moon" id="light-toggle-system"></i> <i class="fa-solid fa-moon" id="light-toggle-dark"></i> <i class="fa-solid fa-sun" id="light-toggle-light"></i> </button> </li> </ul> </div> </div> </nav> </header> <div class="container mt-5" role="main"> <div class="post"> <header class="post-header"> <h1 class="post-title"> <i class="fa-solid fa-tag fa-sm"></i> blog</h1> <p class="post-description">an archive of posts in this category</p> </header> <article class="archive"> <div class="table-responsive"> <table class="table table-sm table-borderless"> <tr> <th scope="row">Apr 23, 2022</th> <td> <a class="post-link" href="https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2" target="_blank" rel="external nofollow noopener">Displaying External Posts on Your al-folio Blog</a> </td> </tr> </table> </div> </article> </div> </div> <footer class="fixed-bottom" role="contentinfo"> <div class="container mt-0"> © Copyright 2026 Eunsu Yun. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a>. </div> </footer> <script>
   window.alFolio = {
