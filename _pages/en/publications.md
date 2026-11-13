@@ -20,6 +20,16 @@ nav_order: 2
     <div class="ey-tl-foot"><span class="ey-links"><a href="{{ '/en/projects/organoid/' | relative_url }}">Project</a></span></div>
   </div>
 </div>
+<div class="ey-tl-row" id="pub-asct">
+  <div class="ey-tl-year"></div>
+  <div class="ey-tl-item ey-pub">
+    <div class="ey-tl-kind">Journal · ASCT</div>
+    <div class="ey-tl-title">On-Device Artificial Intelligence for Image Analysis in Resource-Limited Settings: A Review</div>
+    <div class="ey-authors">Chang Xie, Jai Eun An, Hui Jae Bae, <b>Eun Su Yun</b>, Kyong-Cheol Ko, Dae Sik Jeong, Oh Seok Kwon</div>
+    <div class="ey-meta"><i>Applied Science and Convergence Technology</i>, 35(1), 1–14 · Jan 30, 2026</div>
+    <div class="ey-tl-foot"><span class="ey-pill">Co-author</span><span class="ey-pill">Review</span> <span class="ey-links"><a href="https://doi.org/10.5757/ASCT.2026.35.1.1">DOI</a></span></div>
+  </div>
+</div>
 <div class="ey-tl-row ey-tl-new" id="pub-sensors">
   <div class="ey-tl-year">2025</div>
   <div class="ey-tl-item ey-pub">
@@ -30,18 +40,8 @@ nav_order: 2
     <div class="ey-tl-foot"><span class="ey-pill">First Author</span><span class="ey-pill">SCIE</span><span class="ey-pill">Q2</span> <span class="ey-links"><a href="https://doi.org/10.3390/s26010112">DOI</a> <span class="ey-sep">·</span> <a href="{{ '/en/projects/organoid/' | relative_url }}">Project</a></span></div>
   </div>
 </div>
-<div class="ey-tl-row ey-tl-new" id="pub-asct">
-  <div class="ey-tl-year">2026</div>
-  <div class="ey-tl-item ey-pub">
-    <div class="ey-tl-kind">Journal · ASCT</div>
-    <div class="ey-tl-title">On-Device Artificial Intelligence for Image Analysis in Resource-Limited Settings: A Review</div>
-    <div class="ey-authors">Chang Xie, Jai Eun An, Hui Jae Bae, <b>Eun Su Yun</b>, Kyong-Cheol Ko, Dae Sik Jeong, Oh Seok Kwon</div>
-    <div class="ey-meta"><i>Applied Science and Convergence Technology</i>, 35(1), 1–14 · Jan 30, 2026</div>
-    <div class="ey-tl-foot"><span class="ey-pill">Co-author</span><span class="ey-pill">Review</span> <span class="ey-links"><a href="https://doi.org/10.5757/ASCT.2026.35.1.1">DOI</a></span></div>
-  </div>
-</div>
-<div class="ey-tl-row ey-tl-new" id="pub-ieie-2025">
-  <div class="ey-tl-year">2025</div>
+<div class="ey-tl-row" id="pub-ieie-2025">
+  <div class="ey-tl-year"></div>
   <div class="ey-tl-item ey-pub">
     <div class="ey-tl-kind">Conference · IEIE 2025</div>
     <div class="ey-tl-title">NPU-based real-time iris recognition System implementation and processing time analysis</div>
