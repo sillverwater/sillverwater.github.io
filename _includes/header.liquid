@@ -1,0 +1,133 @@
+{% comment %}
+  Local override of al_folio_core header:
+  - Korean (default) / English navigation, chosen by page.lang
+  - KO | EN language switch (uses page.alt_url when set)
+  - Pink accent theme + small custom styles
+{% endcomment %}
+{% assign cur_lang = page.lang | default: 'ko' %}
+{% if cur_lang == 'en' %}
+  {% assign home_url = '/en/' %}
+  {% assign brand = 'Eunsu Yun' %}
+{% else %}
+  {% assign home_url = '/' %}
+  {% assign brand = '윤은수' %}
+{% endif %}
+{% if page.alt_url %}
+  {% assign alt_url = page.alt_url %}
+{% elsif cur_lang == 'en' %}
+  {% assign alt_url = '/' %}
+{% else %}
+  {% assign alt_url = '/en/' %}
+{% endif %}
+<style>
+  :root {
+    --global-theme-color: #d94f7c;
+    --global-hover-color: #d94f7c;
+    --global-code-bg-color: rgba(217, 79, 124, 0.06);
+  }
+  html[data-theme="dark"] {
+    --global-theme-color: #f7819f;
+    --global-hover-color: #f7819f;
+  }
+  .lang-switch { font-size: 0.85rem; white-space: nowrap; }
+  .lang-switch a, .lang-switch span { padding: 0 0.2rem; }
+  .lang-switch .on { font-weight: 700; color: var(--global-theme-color); }
+  .lang-switch .off { color: var(--global-text-color-light); }
+  .post-title { font-weight: 600; }
+  .ey-section { margin-top: 2.2rem; }
+  .ey-section h2 { font-size: 1.35rem; font-weight: 600; border-bottom: 1px solid var(--global-divider-color); padding-bottom: 0.35rem; margin-bottom: 0.9rem; }
+  .ey-item { display: flex; gap: 1rem; margin-bottom: 0.85rem; }
+  .ey-date { flex: 0 0 10rem; color: var(--global-text-color-light); font-size: 0.92rem; }
+  .ey-body { flex: 1 1 auto; }
+  .ey-body .ey-title { font-weight: 600; }
+  .ey-body .ey-sub { color: var(--global-text-color-light); font-size: 0.92rem; }
+  .ey-body ul { margin: 0.25rem 0 0; padding-left: 1.1rem; }
+  .ey-tag { display: inline-block; font-size: 0.75rem; padding: 0.05rem 0.5rem; margin: 0.1rem 0.15rem 0.1rem 0; border-radius: 999px;
+    border: 1px solid var(--global-theme-color); color: var(--global-theme-color); }
+  .ey-pub { margin-bottom: 1.1rem; }
+  .ey-pub .ey-venue { display: inline-block; min-width: 4.8rem; text-align: center; font-size: 0.75rem; font-weight: 700; color: #fff;
+    background: var(--global-theme-color); border-radius: 4px; padding: 0.1rem 0.4rem; margin-right: 0.5rem; }
+  .ey-pub .ey-authors { font-size: 0.92rem; }
+  .ey-pub .ey-authors b { color: var(--global-text-color); }
+  .ey-pub .ey-meta { font-size: 0.9rem; color: var(--global-text-color-light); }
+  .ey-btn { display: inline-block; font-size: 0.75rem; padding: 0.05rem 0.55rem; border: 1px solid var(--global-text-color-light); border-radius: 4px;
+    margin-right: 0.3rem; color: var(--global-text-color); }
+  .ey-btn:hover { border-color: var(--global-theme-color); color: var(--global-theme-color); text-decoration: none; }
+  .ey-kv { display: grid; grid-template-columns: 9rem 1fr; gap: 0.3rem 1rem; }
+  .ey-kv dt { font-weight: 600; } .ey-kv dd { margin: 0; }
+  .ey-skill { margin-bottom: 0.4rem; }
+  .ey-cvbtn { display: inline-block; padding: 0.35rem 0.9rem; border-radius: 6px; background: var(--global-theme-color); color: #fff !important; font-weight: 600; }
+  .ey-cvbtn:hover { opacity: 0.85; text-decoration: none; }
+  .projects .card-title { font-size: 1.15rem; font-weight: 600; line-height: 1.4; }
+  .projects .card-text { font-size: 0.88rem; color: var(--global-text-color-light); }
+  .projects .card-img-top, .projects .card picture img { height: 170px; object-fit: contain; background: #fafafa; }
+  .projects h2.category { font-size: 1.6rem; }
+  @media (max-width: 576px) { .ey-item { flex-direction: column; gap: 0.1rem; } .ey-date { flex-basis: auto; } .ey-kv { grid-template-columns: 1fr; } }
+</style>
+<header>
+  <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}" role="navigation">
+    <div class="container">
+      {% if page.url != home_url %}
+        <a class="navbar-brand title font-weight-lighter" href="{{ home_url | relative_url }}">
+          <span class="font-weight-bold">{{ brand }}</span>
+        </a>
+      {% endif %}
+      <button
+        class="navbar-toggler collapsed navbar-toggler-main"
+        type="button"
+        data-nav-toggle="navbarNav"
+        aria-controls="navbarNav"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar top-bar"></span>
+        <span class="icon-bar middle-bar"></span>
+        <span class="icon-bar bottom-bar"></span>
+      </button>
+
+      <div class="collapse navbar-collapse navbar-collapse-main" id="navbarNav">
+        <ul class="navbar-nav navbar-menu-list flex-nowrap">
+          {% assign sorted_pages = site.pages | sort: 'nav_order' %}
+          {% for p in sorted_pages %}
+            {% assign p_lang = p.lang | default: 'ko' %}
+            {% if p.nav and p_lang == cur_lang %}
+              {% if p.url == home_url %}
+                {% assign is_active = false %}
+                {% if page.url == home_url %}{% assign is_active = true %}{% endif %}
+              {% else %}
+                {% assign is_active = false %}
+                {% if page.url contains p.url %}{% assign is_active = true %}{% endif %}
+                {% if page.collection == 'projects' and p.url contains '/projects/' %}{% assign is_active = true %}{% endif %}
+              {% endif %}
+              <li class="nav-item {% if is_active %}active{% endif %}">
+                <a class="nav-link" href="{{ p.url | relative_url }}">
+                  {{- p.nav_title | default: p.title }}
+                  {% if is_active %}<span class="sr-only">(current)</span>{% endif %}
+                </a>
+              </li>
+            {% endif %}
+          {% endfor %}
+          <li class="nav-item">
+            <span class="nav-link lang-switch">
+              {% if cur_lang == 'en' %}
+                <a class="off" href="{{ alt_url | relative_url }}" lang="ko" title="한국어로 보기">KO</a>|<span class="on">EN</span>
+              {% else %}
+                <span class="on">KO</span>|<a class="off" href="{{ alt_url | relative_url }}" lang="en" title="View in English">EN</a>
+              {% endif %}
+            </span>
+          </li>
+          {% if site.enable_darkmode %}
+            <li class="toggle-container">
+              <button id="light-toggle" type="button" title="Change theme" aria-label="Change color theme">
+                <i class="fa-half-sun-moon" id="light-toggle-system"></i>
+                <i class="fa-solid fa-moon" id="light-toggle-dark"></i>
+                <i class="fa-solid fa-sun" id="light-toggle-light"></i>
+              </button>
+            </li>
+          {% endif %}
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>
