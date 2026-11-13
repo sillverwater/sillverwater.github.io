@@ -67,7 +67,7 @@ nav_order: 1
 <h2>Awards</h2>
 <div class="ey-item">
   <div class="ey-date">Sep 2023</div>
-  <div class="ey-body"><div class="ey-title">KIGAM President\'s Award</div><div class="ey-sub">Encouragement Award, Geoscience Data & AI Competition — AI Model Development (Hackathon) track</div></div>
+  <div class="ey-body"><div class="ey-title">President's Award, Korea Institute of Geoscience and Mineral Resources (KIGAM)</div><div class="ey-sub">Encouragement Award, Geoscience Data & AI Competition — AI Model Development (Hackathon) Track</div></div>
 </div>
 </div>
 
@@ -80,7 +80,7 @@ nav_order: 1
 </div>
 
 <div class="ey-section">
-<h2>Training</h2>
+<h2>Training Courses</h2>
 <div class="ey-item"><div class="ey-date">Oct 2026 – Apr 2027</div><div class="ey-body"><div class="ey-title">NVIDIA AI CAMPUS — AI Robotics Track</div><div class="ey-sub">Hancom Innostream</div></div></div>
 <div class="ey-item"><div class="ey-date">Apr 2026 – Jun 2026</div><div class="ey-body"><div class="ey-title">H-Mobility Class: Autonomous Driving Perception Track</div><div class="ey-sub">Hyundai NGV</div></div></div>
 <div class="ey-item"><div class="ey-date">Sep 2022 – Dec 2022</div><div class="ey-body"><div class="ey-title">KT AI+X Leading Talent Program</div><div class="ey-sub">KT · Sangmyung University</div></div></div>
