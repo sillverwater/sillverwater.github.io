@@ -21,14 +21,6 @@ Source code for my personal academic portfolio.
 | **Projects** | Research projects grouped by topic — On-device AI, Computer Vision, Others |
 | **CV** | PDF download (education, experience, awards, certifications, skills are on About) |
 
-### Featured projects
-
-- **Lightweight Organoid Vasculature Classifier** — compressed EfficientNet on Jetson Nano and FuriosaAI Warboy NPU (~40% smaller, 31% lower latency) · *Sensors* 2026
-- **Real-Time Iris Recognition on NPU** — YOLOv8s segmentation + iris code, 47 ms (21 FPS) on Mythic NPU · ICGHIT 2025
-- **In-Vehicle Face & Emotion Recognition** — multi-model vision pipeline on a single edge device (team lead)
-- **Banknote Serial Number Recognition** — CRNN (ResNet + BiLSTM) OCR, 99.15% accuracy · CEIC 2023
-- **Camera-based ADAS** — lane departure and forward vehicle warning on Jetson Nano
-
 ## Structure
 
 ```
