@@ -77,6 +77,7 @@ nav_order: 4
 
 <div class="ey-section">
 <h2>교육</h2>
+<div class="ey-item"><div class="ey-date">2026 – 현재</div><div class="ey-body"><div class="ey-title">NVIDIA AI CAMPUS — AI Robotics 과정</div><div class="ey-sub">로봇 학습 · 시뮬레이션</div></div></div>
 <div class="ey-item"><div class="ey-date">2026.04 – 2026.06</div><div class="ey-body"><div class="ey-title">[H-모빌리티 클래스 기본교육] 자율주행 – 인지 Track · 카인사이드아웃</div><div class="ey-sub">현대엔지비 (현대자동차그룹)</div></div></div>
 <div class="ey-item"><div class="ey-date">2022.09 – 2022.12</div><div class="ey-body"><div class="ey-title">KT AI+X 선도인재양성 프로그램</div><div class="ey-sub">KT · 상명대학교</div></div></div>
 </div>

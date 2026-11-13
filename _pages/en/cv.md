@@ -77,6 +77,7 @@ nav_order: 4
 
 <div class="ey-section">
 <h2>Training</h2>
+<div class="ey-item"><div class="ey-date">2026 – present</div><div class="ey-body"><div class="ey-title">NVIDIA AI CAMPUS — AI Robotics Track</div><div class="ey-sub">Robot learning · Simulation</div></div></div>
 <div class="ey-item"><div class="ey-date">Apr 2026 – Jun 2026</div><div class="ey-body"><div class="ey-title">H-Mobility Class: Autonomous Driving – Perception Track & Car Inside-Out</div><div class="ey-sub">Hyundai NGV (Hyundai Motor Group)</div></div></div>
 <div class="ey-item"><div class="ey-date">Sep 2022 – Dec 2022</div><div class="ey-body"><div class="ey-title">KT AI+X Leading Talent Program</div><div class="ey-sub">KT · Sangmyung University</div></div></div>
 </div>

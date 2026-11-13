@@ -2,7 +2,7 @@
 layout: page
 title: 윤은수
 nav_title: About
-description: Computer Vision · On-device AI
+description: Computer Vision · On-Device AI · Physical AI
 permalink: /
 lang: ko
 alt_url: /en/
@@ -10,18 +10,23 @@ nav: true
 nav_order: 1
 ---
 
-<div class="ey-section" style="margin-top:0.5rem">
+<div class="ey-section ey-profile" style="margin-top:0.5rem">
+<div class="ey-profile-text">
 <p>
-엣지 디바이스에서 실시간으로 동작하는 <b>경량 컴퓨터비전 모델</b>을 연구합니다.
-딥러닝 연구 결과가 실제 하드웨어 제약 안에서도 제 성능을 내도록, 모델 설계부터
-<b>경량화·양자화(FP16/INT8)·NPU 배포</b>까지 전 과정을 직접 다뤄 왔습니다.
+컴퓨터비전 기반 딥러닝 모델 개발과 <b>온디바이스 AI 최적화</b>를 중심으로 연구해 왔습니다.
+제한된 하드웨어에서도 딥러닝 모델이 효율적으로 동작하도록 모델 설계부터 <b>경량화, 양자화(FP16/INT8), NPU 배포와 성능 검증</b>까지 전 과정을 직접 수행했습니다.
 </p>
 <p>
-상명대학교 대학원 컴퓨터과학과에서 석사 학위를 받았으며, Computer Vision 연구실(CCLAB)에서
-오가노이드 혈관 이미지 분류, NPU 기반 홍채 인식, 차량용 얼굴·감정 인식 등 의료·보안·모빌리티 분야의
-온디바이스 AI 과제를 수행했습니다. FuriosaAI Warboy, Mythic, Kneron NPU와 NVIDIA Jetson 환경에서의
-모델 최적화 경험이 있습니다.
+상명대학교 대학원 컴퓨터과학과에서 석사 학위를 받았으며, Computer Vision 연구실(CCLAB)에서 오가노이드 혈관 이미지 분류,
+실시간 홍채 인식, 차량용 얼굴·감정 인식 등 NPU 기반 온디바이스 AI 프로젝트를 수행했습니다.
+FuriosaAI Warboy, Mythic, Kneron 등 여러 NPU와 NVIDIA Jetson 환경에서 모델을 최적화한 경험이 있습니다.
 </p>
+<p>
+최근에는 <b>Physical AI와 로보틱스</b>로 관심을 넓혀, NVIDIA AI CAMPUS AI Robotics 과정에서 로봇 학습과 시뮬레이션 기술을 공부하고 있습니다.
+컴퓨터비전과 온디바이스 AI 경험을 바탕으로, 로봇이 주변 환경을 인식하고 이를 실제 행동으로 연결하는 기술을 익히고 있습니다.
+</p>
+</div>
+<div class="ey-profile-photo"><img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="윤은수"></div>
 </div>
 
 <div class="ey-section">
@@ -32,6 +37,7 @@ nav_order: 1
 <span class="ey-tag">Model Compression</span>
 <span class="ey-tag">Lightweight Deep Learning</span>
 <span class="ey-tag">Embedded Systems</span>
+<span class="ey-tag">Physical AI</span>
 </div>
 
 <div class="ey-section">

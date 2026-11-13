@@ -2,9 +2,9 @@
 
 # Eunsu Yun · Portfolio
 
-**Computer Vision · On-device AI**
+**Computer Vision · On-device AI · Physical AI**
 
-[![Website](https://img.shields.io/badge/Website-sillverwater.github.io-d94f7c?style=flat-square)](https://sillverwater.github.io)
+[![Website](https://img.shields.io/badge/Website-sillverwater.github.io-333333?style=flat-square)](https://sillverwater.github.io)
 [![English](https://img.shields.io/badge/English-/en/-555555?style=flat-square)](https://sillverwater.github.io/en/)
 [![CV](https://img.shields.io/badge/CV-PDF-555555?style=flat-square)](https://sillverwater.github.io/assets/cv.pdf)
 
