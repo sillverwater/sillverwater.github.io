@@ -1,20 +1,20 @@
 ---
 layout: page
 title: "차량용 얼굴 인식 및 감정 분석 서비스"
-description: "다중 Vision 모델 온디바이스 통합 · 기업 연구과제 (팀장)"
+description: "02 | 기업 연구과제 (1)"
 lang: ko
 permalink: /projects/face-emotion/
 alt_url: /en/projects/face-emotion/
-category: "On-device AI"
-importance: 3
+importance: 2
+ptype: "연구 용역 과제"
 img: assets/img/projects/face_emotion.jpg
-period: "2024.09 – 2025.01"
-tags: ["Object Detection", "Face Recognition", "Emotion Recognition", "On-device"]
+period: "2024.09 - 2025.01"
+tags: ["Object Detection", "Face Recognition", "Emotion Recognition"]
 ---
 
-<p class="ey-sub" style="color:var(--global-text-color-light)">2024.09 – 2025.01 · 기업 연구과제 · ㈜딥인사이트</p>
+<p class="ey-sub" style="color:var(--global-text-color-light)">2024.09 - 2025.01</p>
 
-<p><span class="ey-tag">Object Detection</span> <span class="ey-tag">Face Recognition</span> <span class="ey-tag">Emotion Recognition</span> <span class="ey-tag">On-device</span></p>
+<div class="ey-pills"><span class="ey-pill">Object Detection</span><span class="ey-pill">Face Recognition</span><span class="ey-pill">Emotion Recognition</span></div>
 
 <p><img src="{{ '/assets/img/projects/face_emotion.jpg' | relative_url }}" alt="차량용 얼굴 인식 및 감정 분석 서비스" class="img-fluid rounded z-depth-1" style="width:100%"></p>
 
@@ -27,9 +27,9 @@ tags: ["Object Detection", "Face Recognition", "Emotion Recognition", "On-device
 
 <div class="ey-section"><h2>진행 과정</h2>
 <ul>
-  <li>YOLOv5 기반 얼굴 탐지, HRNetV2 기반 랜드마크 검출·정렬</li>
-  <li>ArcFace 특징 추출 + PCA 기반 사용자 식별, EmoNet·SVM 기반 7가지 감정 분류</li>
-  <li>다중 모델 통합 및 온디바이스 AI 카메라(CatchCam) 환경 최적화·실시간 검증</li>
+  <li>YOLOv5 기반 얼굴 탐지 및 HRNetV2 기반 Landmark 검출·정렬</li>
+  <li>PCA·ArcFace를 활용한 사용자 식별, SVM·EmoNet을 활용한 감정 분류</li>
+  <li>다중 AI 모델 통합 및 온디바이스 AI 카메라 CatchCam 환경 최적화·실시간 검증</li>
 </ul>
 </div>
 
@@ -38,13 +38,13 @@ tags: ["Object Detection", "Face Recognition", "Emotion Recognition", "On-device
   <li>YOLOv5 얼굴 탐지 mAP50 0.99</li>
   <li>PCA 기반 사용자 식별 정확도 99%</li>
   <li>전체 모델 용량 약 40% 감소</li>
-  <li>전체 파이프라인을 단일 디바이스에 통합해 실시간 서비스 구현</li>
+  <li>전체 파이프라인을 하나의 디바이스에 통합해 실시간 서비스 구현</li>
 </ul>
 </div>
 
 <div class="ey-section"><h2>기여도</h2>
 <ul>
-  <li>프로젝트 팀장 — 일정 관리 및 의뢰기업 요구사항 조율</li>
+  <li>프로젝트 팀장 - 일정 관리 및 의뢰기업 요구사항 조율</li>
   <li>얼굴 탐지 모델, PCA 기반 사용자 식별 알고리즘 개발</li>
   <li>파이프라인 통합 및 NPU 검증</li>
 </ul>

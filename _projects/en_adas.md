@@ -1,54 +1,54 @@
 ---
 layout: page
-title: "Camera-based ADAS"
-description: "Lane departure & forward collision warning on Jetson Nano"
+title: "Advanced Driver Assistance System (ADAS) Implementation"
+description: "05 | Course Project"
 lang: en
 permalink: /en/projects/adas/
 alt_url: /projects/adas/
-category: "Computer Vision"
-importance: 2
+importance: 5
+ptype: "Team Project"
 img: assets/img/projects/adas.jpg
 github: https://github.com/sillverwater/ADAS_Project
-period: "Mar 2022 – Jun 2022"
-tags: ["ADAS", "Object Detection", "OpenCV", "Jetson"]
+period: "2022.03 - 2022.06"
+tags: ["Advanced Driver Assistance Systems", "Object Detection"]
 ---
 
-<p class="ey-sub" style="color:var(--global-text-color-light)">Mar 2022 – Jun 2022 · Course project</p>
+<p class="ey-sub" style="color:var(--global-text-color-light)">2022.03 - 2022.06</p>
 
-<p><span class="ey-tag">ADAS</span> <span class="ey-tag">Object Detection</span> <span class="ey-tag">OpenCV</span> <span class="ey-tag">Jetson</span></p>
+<div class="ey-pills"><span class="ey-pill">Advanced Driver Assistance Systems</span><span class="ey-pill">Object Detection</span></div>
 
-<p><img src="{{ '/assets/img/projects/adas.jpg' | relative_url }}" alt="Camera-based ADAS" class="img-fluid rounded z-depth-1" style="width:100%"></p>
+<p><img src="{{ '/assets/img/projects/adas.jpg' | relative_url }}" alt="Advanced Driver Assistance System (ADAS) Implementation" class="img-fluid rounded z-depth-1" style="width:100%"></p>
 
 <div class="ey-section"><h2>Background</h2>
 <ul>
-  <li>Build ADAS functions from a single camera, without extra sensors</li>
-  <li>Run detection and image processing in real time on Jetson Nano</li>
+  <li>Implementing ADAS that recognizes lanes and vehicles from camera images only, without extra sensors</li>
+  <li>Real-time object detection and image processing needed on Jetson Nano</li>
 </ul>
 </div>
 
-<div class="ey-section"><h2>Approach</h2>
+<div class="ey-section"><h2>Process</h2>
 <ul>
-  <li>OpenCV lane detection (HSV, ROI, HoughLinesP) and lane-departure warning</li>
-  <li>Vehicle detection with YOLOv3-tiny and forward-risk warning logic</li>
-  <li>Integrated the pipeline on Jetson Nano</li>
+  <li>Implemented OpenCV-based lane detection and lane departure warning algorithm</li>
+  <li>Developed YOLOv3-tiny-based vehicle detection and forward collision warning logic</li>
+  <li>Integrated the image processing and object detection pipeline on Jetson Nano</li>
 </ul>
 </div>
 
 <div class="ey-section"><h2>Results</h2>
 <ul>
-  <li>~23 FPS object detection on Jetson Nano</li>
-  <li>Lane departure warning (LDW) and forward vehicle warning</li>
+  <li>Achieved ~23 FPS object detection on Jetson Nano</li>
+  <li>Implemented lane departure warning (LDW) and forward vehicle warning</li>
   <li>End-to-end camera-based ADAS prototype</li>
 </ul>
 </div>
 
-<div class="ey-section"><h2>My Role</h2>
+<div class="ey-section"><h2>Contribution</h2>
 <ul>
-  <li>Lane detection and LDW algorithm</li>
-  <li>C++/OpenCV system integration and edge validation</li>
+  <li>Implemented lane detection and lane departure warning algorithm</li>
+  <li>C++/OpenCV-based ADAS system integration and Edge validation</li>
 </ul>
 </div>
 
-<p><a class="ey-btn" href="https://github.com/sillverwater/ADAS_Project">GitHub</a></p>
+<div class="ey-links"><a href="https://github.com/sillverwater/ADAS_Project">GitHub</a></div>
 
 <p style="margin-top:2rem"><a href="{{ '/en/projects/' | relative_url }}">← All projects</a></p>
