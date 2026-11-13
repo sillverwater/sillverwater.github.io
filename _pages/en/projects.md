@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 nav_title: Projects
-description: Research and development projects, grouped by topic
+description: Research and development projects
 permalink: /en/projects/
 lang: en
 alt_url: /projects/

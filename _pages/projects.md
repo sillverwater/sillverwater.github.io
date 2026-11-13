@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 nav_title: Projects
-description: 주제별로 정리한 연구·개발 프로젝트
+description: 연구·개발 프로젝트
 permalink: /projects/
 lang: ko
 alt_url: /en/projects/
