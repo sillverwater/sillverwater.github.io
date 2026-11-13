@@ -9,8 +9,7 @@ last_name: Yun
 contact_note: ""
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Eunsu Yun — Computer Vision & On-device AI. Lightweight deep learning for edge devices.
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a>.
+footer_text:
 keywords: computer vision, on-device ai, edge ai, lightweight deep learning, model compression
 lang: ko
 icon: favicon.png
@@ -93,7 +92,7 @@ al_folio:
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 search_enabled: false
 socials_in_search: true
 posts_in_search: true
