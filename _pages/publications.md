@@ -2,7 +2,6 @@
 layout: page
 title: Publications
 nav_title: Publications
-description: 학위논문 · 학술지 · 학술대회
 permalink: /publications/
 lang: ko
 alt_url: /en/publications/

@@ -2,7 +2,6 @@
 layout: page
 title: Publications
 nav_title: Publications
-description: Thesis, journal articles, and conference papers
 permalink: /en/publications/
 lang: en
 alt_url: /publications/
