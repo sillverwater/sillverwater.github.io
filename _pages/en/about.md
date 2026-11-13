@@ -55,7 +55,7 @@ nav_order: 1
 <h2>Industry Research Projects</h2>
 <div class="ey-item">
   <div class="ey-date">Sep 2024 – Jan 2025</div>
-  <div class="ey-body"><div class="ey-title"><a href="{{ '/en/projects/face-emotion/' | relative_url }}">Development of an In-Vehicle Face Recognition & Emotion Analysis Service</a></div><div class="ey-sub">DeepInsight · Sangmyung University · <b>Lead Researcher</b></div></div>
+  <div class="ey-body"><div class="ey-title"><a href="{{ '/en/projects/face-emotion/' | relative_url }}">Development of an In-Vehicle Face Recognition & Emotion Analysis Service</a></div><div class="ey-sub">DeepInsight · Sangmyung University</div></div>
 </div>
 <div class="ey-item">
   <div class="ey-date">May 2024 – Aug 2024</div>
