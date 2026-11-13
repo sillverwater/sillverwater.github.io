@@ -30,12 +30,6 @@ and in-vehicle face and emotion recognition. I have optimized models for several
 as well as NVIDIA Jetson.</p>
 <p>Recently, I have broadened my interests to <b>Physical AI and robotics</b>, studying robot learning and simulation
 in the NVIDIA AI CAMPUS AI Robotics program, and learning how robots perceive their surroundings and turn that perception into action.</p>
-    <ul class="ey-hero-list">
-      <li>Computer Vision — Classification, Detection, Segmentation</li>
-      <li>On-Device AI — Model Compression and Quantization (FP16 / INT8)</li>
-      <li>Edge AI — Deployment and Optimization on NPUs and NVIDIA Jetson</li>
-      <li>Physical AI — Robot Learning and Simulation</li>
-    </ul>
   </div>
 </div>
 
@@ -43,11 +37,23 @@ in the NVIDIA AI CAMPUS AI Robotics program, and learning how robots perceive th
 <h2>Education</h2>
 <div class="ey-item">
   <div class="ey-date">Mar 2024 – Feb 2026</div>
-  <div class="ey-body"><div class="ey-title">M.S. in Computer Science</div><div class="ey-sub">Sangmyung University · Computer Vision Lab (CCLAB)</div></div>
+  <div class="ey-body"><div class="ey-title">M.S. in Computer Science</div><div class="ey-sub">Graduate School, Sangmyung University</div></div>
 </div>
 <div class="ey-item">
   <div class="ey-date">Mar 2020 – Feb 2024</div>
   <div class="ey-body"><div class="ey-title">B.S. in Convergence Electronic Engineering & Human Intelligence Information Engineering (Double Major)</div><div class="ey-sub">Sangmyung University</div></div>
+</div>
+</div>
+
+<div class="ey-section">
+<h2>Research Experience</h2>
+<div class="ey-item">
+  <div class="ey-date">Mar 2024 – Feb 2026</div>
+  <div class="ey-body"><div class="ey-title">Graduate Researcher</div><div class="ey-sub">Computer Vision Lab (CCLAB), Sangmyung University</div></div>
+</div>
+<div class="ey-item">
+  <div class="ey-date">Jun 2023 – Feb 2024</div>
+  <div class="ey-body"><div class="ey-title">Undergraduate Researcher</div><div class="ey-sub">Computer Vision Lab (CCLAB), Sangmyung University</div></div>
 </div>
 </div>
 

@@ -13,8 +13,8 @@ footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a>.
 keywords: computer vision, on-device ai, edge ai, lightweight deep learning, model compression
 lang: ko
-icon: 🌸
-apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
+icon: favicon.png
+apple_touch_icon: favicon.png
 
 url: https://sillverwater.github.io
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root

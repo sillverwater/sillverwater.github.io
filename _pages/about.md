@@ -28,12 +28,6 @@ nav_order: 1
 FuriosaAI Warboy, Mythic, Kneron 등 여러 NPU와 NVIDIA Jetson 환경에서 모델을 최적화한 경험이 있습니다.</p>
 <p>최근에는 <b>Physical AI와 로보틱스</b>로 관심을 넓혀, NVIDIA AI CAMPUS AI Robotics 과정에서 로봇 학습과 시뮬레이션 기술을 공부하고 있습니다.
 컴퓨터비전과 온디바이스 AI 경험을 바탕으로, 로봇이 주변 환경을 인식하고 이를 실제 행동으로 연결하는 기술을 익히고 있습니다.</p>
-    <ul class="ey-hero-list">
-      <li>Computer Vision — 이미지 분류 · 객체 탐지 · Segmentation</li>
-      <li>On-Device AI — 모델 경량화 · 양자화 (FP16 / INT8)</li>
-      <li>Edge AI — NPU · NVIDIA Jetson 배포 및 최적화</li>
-      <li>Physical AI — 로봇 학습 · 시뮬레이션</li>
-    </ul>
   </div>
 </div>
 
@@ -41,11 +35,23 @@ FuriosaAI Warboy, Mythic, Kneron 등 여러 NPU와 NVIDIA Jetson 환경에서 �
 <h2>학력</h2>
 <div class="ey-item">
   <div class="ey-date">2024.03 – 2026.02</div>
-  <div class="ey-body"><div class="ey-title">컴퓨터과학 석사</div><div class="ey-sub">상명대학교 일반대학원 컴퓨터과학과 · CCLAB</div></div>
+  <div class="ey-body"><div class="ey-title">컴퓨터과학 석사 과정</div><div class="ey-sub">상명대학교 일반대학원</div></div>
 </div>
 <div class="ey-item">
   <div class="ey-date">2020.03 – 2024.02</div>
-  <div class="ey-body"><div class="ey-title">융합전자공학 · 휴먼지능정보공학 학사 (복수전공)</div><div class="ey-sub">상명대학교</div></div>
+  <div class="ey-body"><div class="ey-title">융합전자공학 · 휴먼지능정보공학 학사 과정 (복수전공)</div><div class="ey-sub">상명대학교</div></div>
+</div>
+</div>
+
+<div class="ey-section">
+<h2>연구 경력</h2>
+<div class="ey-item">
+  <div class="ey-date">2024.03 – 2026.02</div>
+  <div class="ey-body"><div class="ey-title">석사연구생</div><div class="ey-sub">상명대학교 Computer Vision 연구실 (CCLAB)</div></div>
+</div>
+<div class="ey-item">
+  <div class="ey-date">2023.06 – 2024.02</div>
+  <div class="ey-body"><div class="ey-title">학부연구생</div><div class="ey-sub">상명대학교 Computer Vision 연구실 (CCLAB)</div></div>
 </div>
 </div>
 
