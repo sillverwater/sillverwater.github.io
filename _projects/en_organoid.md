@@ -8,6 +8,8 @@ alt_url: /projects/organoid/
 category: "On-device AI"
 importance: 1
 img: assets/img/projects/organoid.jpg
+period: "Jun 2025 – Jan 2026"
+tags: ["Image Classification", "Lightweight DL", "Quantization", "Jetson", "FuriosaAI"]
 ---
 
 <p class="ey-sub" style="color:var(--global-text-color-light)">Jun 2025 – Jan 2026 · M.S. thesis · SCIE (Sensors), first author</p>

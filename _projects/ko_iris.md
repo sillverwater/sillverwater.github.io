@@ -8,6 +8,8 @@ alt_url: /en/projects/iris/
 category: "On-device AI"
 importance: 2
 img: assets/img/projects/iris.jpg
+period: "2024.05 – 2024.08"
+tags: ["Segmentation", "YOLOv8", "Iris Recognition", "Mythic NPU", "Jetson"]
 ---
 
 <p class="ey-sub" style="color:var(--global-text-color-light)">2024.05 – 2024.08 · 기업 연구과제 · (주)현대엠아이비인터내셔널</p>

@@ -8,6 +8,8 @@ alt_url: /en/projects/organoid/
 category: "On-device AI"
 importance: 1
 img: assets/img/projects/organoid.jpg
+period: "2025.06 – 2026.01"
+tags: ["Image Classification", "Lightweight DL", "Quantization", "Jetson", "FuriosaAI"]
 ---
 
 <p class="ey-sub" style="color:var(--global-text-color-light)">2025.06 – 2026.01 · 석사 학위논문 · SCIE (Sensors) 제1저자</p>

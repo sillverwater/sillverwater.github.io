@@ -8,6 +8,8 @@ alt_url: /en/projects/banknote/
 category: "Computer Vision"
 importance: 1
 img: assets/img/projects/banknote.jpg
+period: "2023.10 – 2023.12"
+tags: ["OCR", "CRNN", "Text Recognition"]
 ---
 
 <p class="ey-sub" style="color:var(--global-text-color-light)">2023.10 – 2023.12 · 학부연구생 연구 · CEIC 2023 제1저자</p>

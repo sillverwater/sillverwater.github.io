@@ -7,6 +7,8 @@ permalink: /en/projects/anomaly/
 alt_url: /projects/anomaly/
 category: "Others"
 importance: 1
+period: "Jul 2023 – Sep 2023"
+tags: ["Time Series", "LSTM", "Anomaly Detection"]
 ---
 
 <p class="ey-sub" style="color:var(--global-text-color-light)">Jul 2023 – Sep 2023 · 2023 Geoscience Data & AI Competition (KIGAM)</p>

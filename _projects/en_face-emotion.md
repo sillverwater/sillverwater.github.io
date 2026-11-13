@@ -8,6 +8,8 @@ alt_url: /projects/face-emotion/
 category: "On-device AI"
 importance: 3
 img: assets/img/projects/face_emotion.jpg
+period: "Sep 2024 – Jan 2025"
+tags: ["Object Detection", "Face Recognition", "Emotion Recognition", "On-device"]
 ---
 
 <p class="ey-sub" style="color:var(--global-text-color-light)">Sep 2024 – Jan 2025 · Industry research project · DeepInsight</p>

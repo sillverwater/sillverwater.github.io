@@ -8,6 +8,8 @@ alt_url: /projects/iris/
 category: "On-device AI"
 importance: 2
 img: assets/img/projects/iris.jpg
+period: "May 2024 – Aug 2024"
+tags: ["Segmentation", "YOLOv8", "Iris Recognition", "Mythic NPU", "Jetson"]
 ---
 
 <p class="ey-sub" style="color:var(--global-text-color-light)">May 2024 – Aug 2024 · Industry research project · Hyundai MIB International</p>

@@ -9,6 +9,8 @@ category: "Computer Vision"
 importance: 2
 img: assets/img/projects/adas.jpg
 github: https://github.com/sillverwater/ADAS_Project
+period: "Mar 2022 – Jun 2022"
+tags: ["ADAS", "Object Detection", "OpenCV", "Jetson"]
 ---
 
 <p class="ey-sub" style="color:var(--global-text-color-light)">Mar 2022 – Jun 2022 · Course project</p>

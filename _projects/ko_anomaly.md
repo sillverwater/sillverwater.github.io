@@ -7,6 +7,8 @@ permalink: /projects/anomaly/
 alt_url: /en/projects/anomaly/
 category: "Others"
 importance: 1
+period: "2023.07 – 2023.09"
+tags: ["Time Series", "LSTM", "Anomaly Detection"]
 ---
 
 <p class="ey-sub" style="color:var(--global-text-color-light)">2023.07 – 2023.09 · 2023 지질자원데이터 활용 및 인공지능 경진대회 (한국지질자원연구원)</p>

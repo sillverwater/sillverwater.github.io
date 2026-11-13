@@ -8,6 +8,8 @@ alt_url: /en/projects/face-emotion/
 category: "On-device AI"
 importance: 3
 img: assets/img/projects/face_emotion.jpg
+period: "2024.09 – 2025.01"
+tags: ["Object Detection", "Face Recognition", "Emotion Recognition", "On-device"]
 ---
 
 <p class="ey-sub" style="color:var(--global-text-color-light)">2024.09 – 2025.01 · 기업 연구과제 · ㈜딥인사이트</p>
