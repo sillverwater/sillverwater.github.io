@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 nav_title: Publications
-description: Journal article, thesis, and conference papers
+description: Journal articles, thesis, and conference papers
 permalink: /en/publications/
 lang: en
 alt_url: /publications/
@@ -13,73 +13,63 @@ nav_order: 2
 <div class="ey-section" style="margin-top:0.5rem">
 <h2>Journal</h2>
 <div class="ey-pub">
-  <span class="ey-venue">ASCT</span>
-  <b>On-Device Artificial Intelligence for Image Analysis in Resource-Limited Settings: A Review</b><br>
-  <span class="ey-authors">Chang Xie, Jai Eun An, Hui Jae Bae, <b><u>Eun Su Yun</u></b>, Kyong-Cheol Ko, Dae Sik Jeong, Oh Seok Kwon</span><br>
-  <span class="ey-meta"><i>Applied Science and Convergence Technology</i>, 35(1), 1–14 · Jan 30, 2026 · Review · Co-author (4/7)</span><br>
-  <a class="ey-btn" href="https://doi.org/10.5757/ASCT.2026.35.1.1">DOI</a>
+  <div class="ey-pub-title"><span class="ey-venue">ASCT</span><b>On-Device Artificial Intelligence for Image Analysis in Resource-Limited Settings: A Review</b></div>
+  <div class="ey-meta"><i>Applied Science and Convergence Technology</i>, 35(1), 1–14 · Jan 30, 2026</div>
+  <div class="ey-pills"><span class="ey-pill">Co-author</span><span class="ey-pill">Review</span></div>
+  <div class="ey-links"><a href="https://doi.org/10.5757/ASCT.2026.35.1.1">DOI</a></div>
 </div>
 <div class="ey-pub">
-  <span class="ey-venue">Sensors</span>
-  <b>Lightweight Deep Learning Model for Classification of Normal and Abnormal Vasculature in Organoid Images</b><br>
-  <span class="ey-authors"><b><u>Eunsu Yun</u></b>, Jongweon Kim, Daesik Jeong</span><br>
-  <span class="ey-meta"><i>Sensors</i>, 26(1), 112 · Dec 24, 2025 · SCIE (IF 4.00) · First author (1/3)</span><br>
-  <a class="ey-btn" href="https://doi.org/10.3390/s26010112">DOI</a>
-  <a class="ey-btn" href="https://www.mdpi.com/1424-8220/26/1/112">MDPI</a>
-  <a class="ey-btn" href="{{ '/en/projects/organoid/' | relative_url }}">Project</a>
+  <div class="ey-pub-title"><span class="ey-venue">Sensors</span><b>Lightweight Deep Learning Model for Classification of Normal and Abnormal Vasculature in Organoid Images</b></div>
+  <div class="ey-meta"><i>Sensors</i>, 26(1), 112 · Dec 24, 2025</div>
+  <div class="ey-pills"><span class="ey-pill">First Author</span><span class="ey-pill">SCIE</span><span class="ey-pill">Q2</span><span class="ey-pill">IF 4.00</span></div>
+  <div class="ey-links"><a href="https://doi.org/10.3390/s26010112">DOI</a> <span class="ey-sep">·</span> <a href="https://www.mdpi.com/1424-8220/26/1/112">MDPI</a> <span class="ey-sep">·</span> <a href="{{ '/en/projects/organoid/' | relative_url }}">Project</a></div>
 </div>
 </div>
 
 <div class="ey-section">
 <h2>Thesis</h2>
 <div class="ey-pub">
-  <span class="ey-venue">M.S.</span>
-  <b>A Study on Lightweight Deep Learning Model for Classification of Normal and Abnormal Vasculature in Organoid Images</b><br>
-  <span class="ey-authors"><b><u>Eunsu Yun</u></b></span><br>
-  <span class="ey-meta">M.S. Thesis, Department of Computer Science, Sangmyung University · Feb 24, 2026 · Sole author · in Korean</span><br>
-  <a class="ey-btn" href="{{ '/en/projects/organoid/' | relative_url }}">Project</a>
+  <div class="ey-pub-title"><span class="ey-venue">M.S.</span><b>A Study on Lightweight Deep Learning Model for Classification of Normal and Abnormal Vasculature in Organoid Images</b></div>
+  <div class="ey-meta">M.S. Thesis, Department of Computer Science, Sangmyung University · Feb 24, 2026</div>
+  <div class="ey-pills"><span class="ey-pill">Sole Author</span></div>
+  <div class="ey-links"><a href="{{ '/en/projects/organoid/' | relative_url }}">Project</a></div>
 </div>
 </div>
 
 <div class="ey-section">
 <h2>International Conference</h2>
 <div class="ey-pub">
-  <span class="ey-venue">ICGHIT 2025</span>
-  <b>Hybrid Iris Recognition for Authentication Systems in AI Edge Device (NPU) Environments</b><br>
-  <span class="ey-authors">Co-author (2/5)</span><br>
-  <span class="ey-meta">ICGHIT 2025 · Jan 15, 2025 · Oral Session</span><br>
-  <a class="ey-btn" href="{{ '/en/projects/iris/' | relative_url }}">Project</a>
+  <div class="ey-pub-title"><span class="ey-venue">ICGHIT 2025</span><b>Hybrid Iris Recognition for Authentication Systems in AI Edge Device (NPU) Environments</b></div>
+  <div class="ey-meta">International Conference on Green and Human Information Technology (ICGHIT) 2025 · Jan 15, 2025</div>
+  <div class="ey-pills"><span class="ey-pill">Co-author</span><span class="ey-pill">Oral</span></div>
+  <div class="ey-links"><a href="{{ '/en/projects/iris/' | relative_url }}">Project</a></div>
 </div>
 </div>
 
 <div class="ey-section">
 <h2>Domestic Conference</h2>
 <div class="ey-pub">
-  <span class="ey-venue">IEIE 2025</span>
-  <b>NPU-based real-time iris recognition System implementation and processing time analysis</b><br>
-  <span class="ey-authors"><b><u>Eunsu Yun</u></b> et al. · Co-first author (1/7)</span><br>
-  <span class="ey-meta">IEIE Summer Annual Conference 2025 · Jun 24, 2025 · in Korean</span><br>
-  <a class="ey-btn" href="{{ '/en/projects/iris/' | relative_url }}">Project</a>
+  <div class="ey-pub-title"><span class="ey-venue">IEIE 2025</span><b>NPU-based real-time iris recognition System implementation and processing time analysis</b></div>
+  <div class="ey-meta">IEIE Summer Annual Conference 2025 · Jun 24, 2025</div>
+  <div class="ey-pills"><span class="ey-pill">Co-first Author</span></div>
+  <div class="ey-links"><a href="{{ '/en/projects/iris/' | relative_url }}">Project</a></div>
 </div>
 <div class="ey-pub">
-  <span class="ey-venue">ASK 2024</span>
-  <b>Development of AI-based advertising cost prediction algorithms</b><br>
-  <span class="ey-authors">Co-author (4/8)</span><br>
-  <span class="ey-meta">KIPS ASK 2024 (Spring Conference) · May 23, 2024 · in Korean</span><br>
-  <a class="ey-btn" href="https://doi.org/10.3745/PKIPS.y2024m05a.834">DOI</a>
+  <div class="ey-pub-title"><span class="ey-venue">ASK 2024</span><b>Development of AI-based advertising cost prediction algorithms</b></div>
+  <div class="ey-meta">KIPS ASK 2024 (Spring Conference) · May 23, 2024</div>
+  <div class="ey-pills"><span class="ey-pill">Co-author</span></div>
+  <div class="ey-links"><a href="https://doi.org/10.3745/PKIPS.y2024m05a.834">DOI</a></div>
 </div>
 <div class="ey-pub">
-  <span class="ey-venue">CEIC 2023</span>
-  <b>A Study on deep learning based banknote serial number recognition</b><br>
-  <span class="ey-authors"><b><u>Eunsu Yun</u></b> et al. · First author (1/2)</span><br>
-  <span class="ey-meta">The 25th Conference on Electronics, Information and Communications (CEIC 2023) · Dec 8, 2023 · Poster · in Korean</span><br>
-  <a class="ey-btn" href="{{ '/en/projects/banknote/' | relative_url }}">Project</a>
+  <div class="ey-pub-title"><span class="ey-venue">CEIC 2023</span><b>A Study on deep learning based banknote serial number recognition</b></div>
+  <div class="ey-meta">The 25th Conference on Electronics, Information and Communications (CEIC 2023) · Dec 8, 2023</div>
+  <div class="ey-pills"><span class="ey-pill">First Author</span><span class="ey-pill">Poster</span></div>
+  <div class="ey-links"><a href="{{ '/en/projects/banknote/' | relative_url }}">Project</a></div>
 </div>
 <div class="ey-pub">
-  <span class="ey-venue">ACK 2023</span>
-  <b>Developing the Deep Text-to-Ontology Generator based on Neuro-Symbolic Architecture</b><br>
-  <span class="ey-authors"><b><u>Eunsu Yun</u></b> et al. · Co-first author (1/6)</span><br>
-  <span class="ey-meta">KIPS ACK 2023 (Fall Conference) · Nov 2, 2023 · in Korean</span><br>
-  <a class="ey-btn" href="https://doi.org/10.3745/PKIPS.y2023m11a.672">DOI</a>
+  <div class="ey-pub-title"><span class="ey-venue">ACK 2023</span><b>Developing the Deep Text-to-Ontology Generator based on Neuro-Symbolic Architecture</b></div>
+  <div class="ey-meta">KIPS ACK 2023 (Fall Conference) · Nov 2, 2023</div>
+  <div class="ey-pills"><span class="ey-pill">Co-first Author</span></div>
+  <div class="ey-links"><a href="https://doi.org/10.3745/PKIPS.y2023m11a.672">DOI</a></div>
 </div>
 </div>
