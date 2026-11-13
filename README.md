@@ -10,12 +10,7 @@
 
 </div>
 
-Source code for my personal academic portfolio. The site introduces my research on
-**lightweight deep learning models that run in real time on edge devices** — from model design
-to compression, quantization (FP16/INT8), and deployment on NPUs and NVIDIA Jetson.
-
-엣지 디바이스에서 실시간으로 동작하는 경량 컴퓨터비전 모델 연구를 소개하는 개인 포트폴리오 사이트입니다.
-한국어가 기본이며, 상단의 **KO | EN** 버튼으로 영어 페이지를 볼 수 있습니다.
+Source code for my personal academic portfolio.
 
 ## Contents
 
