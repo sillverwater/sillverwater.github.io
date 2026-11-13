@@ -47,7 +47,7 @@ nav_order: 2
     <div class="ey-tl-title">NPU-based real-time iris recognition System implementation and processing time analysis</div>
     <div class="ey-authors">Huijae Bae, <b>Eunsu Yun</b>, Dongwon Lee, SeonKyun Park, SeongHan Kim, JongWeon Kim, DaeSik Jung</div>
     <div class="ey-meta">IEIE Summer Annual Conference 2025 · Jun 24, 2025</div>
-    <div class="ey-tl-foot"><span class="ey-pill">Co-first Author</span> <span class="ey-links"><a href="{{ '/en/projects/iris/' | relative_url }}">Project</a></span></div>
+    <div class="ey-tl-foot"><span class="ey-pill">Co-first Author</span> <span class="ey-links"><a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12331894">DBpia</a> <span class="ey-sep">·</span> <a href="{{ '/en/projects/iris/' | relative_url }}">Project</a></span></div>
   </div>
 </div>
 <div class="ey-tl-row" id="pub-icghit-2025">

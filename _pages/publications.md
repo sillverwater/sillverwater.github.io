@@ -47,7 +47,7 @@ nav_order: 2
     <div class="ey-tl-title">NPU 기반 실시간 홍채 인식 시스템 구현 및 처리 시간 분석</div>
     <div class="ey-authors">배희재, <b>윤은수</b>, 이동원, 박선균, 김성한, 김종원, 정대식</div>
     <div class="ey-meta">2025년도 대한전자공학회 하계종합학술대회 · 2025.06.24</div>
-    <div class="ey-tl-foot"><span class="ey-pill">공동 1저자</span> <span class="ey-links"><a href="{{ '/projects/iris/' | relative_url }}">프로젝트</a></span></div>
+    <div class="ey-tl-foot"><span class="ey-pill">공동 1저자</span> <span class="ey-links"><a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12331894">DBpia</a> <span class="ey-sep">·</span> <a href="{{ '/projects/iris/' | relative_url }}">프로젝트</a></span></div>
   </div>
 </div>
 <div class="ey-tl-row" id="pub-icghit-2025">
