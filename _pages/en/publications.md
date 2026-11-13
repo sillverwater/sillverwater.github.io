@@ -34,7 +34,7 @@ nav_order: 2
 <h2>Thesis</h2>
 <div class="ey-pub">
   <span class="ey-venue">M.S.</span>
-  <b>A Study on a Lightweight Deep Learning Model for Classifying Normal and Abnormal Vasculature in Organoid Images</b><br>
+  <b>A Study on Lightweight Deep Learning Model for Classification of Normal and Abnormal Vasculature in Organoid Images</b><br>
   <span class="ey-authors"><b><u>Eunsu Yun</u></b></span><br>
   <span class="ey-meta">M.S. Thesis, Department of Computer Science, Sangmyung University · Feb 24, 2026 · Sole author · in Korean</span><br>
   <a class="ey-btn" href="{{ '/en/projects/organoid/' | relative_url }}">Project</a>
@@ -56,28 +56,28 @@ nav_order: 2
 <h2>Domestic Conference</h2>
 <div class="ey-pub">
   <span class="ey-venue">IEIE 2025</span>
-  <b>Implementation and Processing-Time Analysis of an NPU-based Real-Time Iris Recognition System</b><br>
+  <b>NPU-based real-time iris recognition System implementation and processing time analysis</b><br>
   <span class="ey-authors"><b><u>Eunsu Yun</u></b> et al. · Co-first author (1/7)</span><br>
   <span class="ey-meta">IEIE Summer Annual Conference 2025 · Jun 24, 2025 · in Korean</span><br>
   <a class="ey-btn" href="{{ '/en/projects/iris/' | relative_url }}">Project</a>
 </div>
 <div class="ey-pub">
   <span class="ey-venue">ASK 2024</span>
-  <b>Development of an AI-based Advertising Cost Prediction Algorithm</b><br>
+  <b>Development of AI-based advertising cost prediction algorithms</b><br>
   <span class="ey-authors">Co-author (4/8)</span><br>
   <span class="ey-meta">KIPS ASK 2024 (Spring Conference) · May 23, 2024 · in Korean</span><br>
   <a class="ey-btn" href="https://doi.org/10.3745/PKIPS.y2024m05a.834">DOI</a>
 </div>
 <div class="ey-pub">
   <span class="ey-venue">CEIC 2023</span>
-  <b>A Study on Deep Learning-based Banknote Serial Number Recognition</b><br>
+  <b>A Study on deep learning based banknote serial number recognition</b><br>
   <span class="ey-authors"><b><u>Eunsu Yun</u></b> et al. · First author (1/2)</span><br>
   <span class="ey-meta">The 25th Conference on Electronics, Information and Communications (CEIC 2023) · Dec 8, 2023 · Poster · in Korean</span><br>
   <a class="ey-btn" href="{{ '/en/projects/banknote/' | relative_url }}">Project</a>
 </div>
 <div class="ey-pub">
   <span class="ey-venue">ACK 2023</span>
-  <b>Proposal of an Ontology Generator Based on a Neuro-Symbolic Architecture</b><br>
+  <b>Developing the Deep Text-to-Ontology Generator based on Neuro-Symbolic Architecture</b><br>
   <span class="ey-authors"><b><u>Eunsu Yun</u></b> et al. · Co-first author (1/6)</span><br>
   <span class="ey-meta">KIPS ACK 2023 (Fall Conference) · Nov 2, 2023 · in Korean</span><br>
   <a class="ey-btn" href="https://doi.org/10.3745/PKIPS.y2023m11a.672">DOI</a>
