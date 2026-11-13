@@ -91,6 +91,19 @@
   .ey-pill { display: inline-block; font-size: 0.72rem; font-weight: 600; padding: 0.08rem 0.5rem; margin-right: 0.3rem; border-radius: 4px;
     background: rgba(127,127,127,0.14); color: var(--global-text-color); }
   .ey-pill-main { background: var(--global-text-color); color: var(--global-bg-color); }
+  .ey-tl { margin-top: 0.8rem; }
+  .ey-tl-row { display: flex; gap: 1.4rem; }
+  .ey-tl-row.ey-tl-new { margin-top: 0.6rem; }
+  .ey-tl-year { flex: 0 0 3.6rem; font-size: 1.35rem; font-weight: 800; color: #c4c4c4; line-height: 1.2; }
+  .ey-tl-item { flex: 1; position: relative; border-left: 2px solid #e2e2e2; padding: 0 0 1.1rem 1rem; margin-bottom: 0 !important; }
+  .ey-tl-item:before { content: ""; position: absolute; left: -5px; top: 0.35rem; width: 8px; height: 8px; border-radius: 50%; background: var(--global-text-color); }
+  .ey-tl-kind { font-size: 0.7rem; font-weight: 700; color: #888; letter-spacing: 0.06em; text-transform: uppercase; }
+  .ey-tl-title { font-weight: 700; font-size: 1rem; line-height: 1.35; margin: 0.1rem 0 0.15rem; }
+  .ey-tl-foot { margin-top: 0.3rem; }
+  .ey-tl-foot .ey-pill { margin-right: 0.25rem; }
+  html[data-theme="dark"] .ey-tl-item { border-left-color: #444; }
+  html[data-theme="dark"] .ey-tl-year { color: #555; }
+  @media (max-width: 576px) { .ey-tl-row { gap: 0.6rem; } .ey-tl-year { flex-basis: 2.8rem; font-size: 1.05rem; } }
   .ey-links { font-size: 0.88rem; }
   .ey-links a, .ey-links a:visited { color: #1a5fb4; }
   html[data-theme="dark"] .ey-links a { color: #6ea8fe; }
