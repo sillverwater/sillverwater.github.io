@@ -55,7 +55,7 @@ nav_order: 1
 <h2>연구과제</h2>
 <div class="ey-item">
   <div class="ey-date">2024.09 – 2025.01</div>
-  <div class="ey-body"><div class="ey-title"><a href="{{ '/projects/face-emotion/' | relative_url }}">차량용 얼굴 인식 및 감정 분석 서비스 개발</a></div><div class="ey-sub">㈜딥인사이트 · 상명대학교 · <b>주연구원</b></div></div>
+  <div class="ey-body"><div class="ey-title"><a href="{{ '/projects/face-emotion/' | relative_url }}">차량용 얼굴 인식 및 감정 분석 서비스 개발</a></div><div class="ey-sub">㈜딥인사이트 · 상명대학교 · <b>연구 총괄</b></div></div>
 </div>
 <div class="ey-item">
   <div class="ey-date">2024.05 – 2024.08</div>
