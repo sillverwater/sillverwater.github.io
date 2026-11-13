@@ -49,8 +49,6 @@ tags: ["Image Classification", "Lightweight Deep Learning"]
 </ul>
 </div>
 
-<div class="ey-links"><a href="https://doi.org/10.3390/s26010112">DOI</a></div>
-
 <div class="ey-section"><h2>Related Publications</h2>
 <div class="ey-links"><a href="{{ '/en/publications/#pub-ms' | relative_url }}">M.S. Thesis</a> <span class="ey-sep">·</span> <a href="{{ '/en/publications/#pub-sensors' | relative_url }}">Sensors 2026</a></div>
 </div>
