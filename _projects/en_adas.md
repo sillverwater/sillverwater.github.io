@@ -4,7 +4,7 @@ title: "Advanced Driver Assistance System (ADAS) Implementation"
 lang: en
 permalink: /en/projects/adas/
 alt_url: /projects/adas/
-importance: 6
+importance: 7
 ptype: "Team Project"
 img: assets/img/projects/adas.jpg
 github: https://github.com/sillverwater/ADAS_Project
