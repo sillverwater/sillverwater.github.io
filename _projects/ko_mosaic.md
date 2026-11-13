@@ -5,7 +5,7 @@ lang: ko
 permalink: /projects/mosaic/
 alt_url: /en/projects/mosaic/
 importance: 5
-ptype: "팀 프로젝트"
+ptype: "학부 졸업 프로젝트"
 img: assets/img/projects/mosaic.jpg
 period: "2023.03 - 2023.10"
 cats: ["Computer Vision"]

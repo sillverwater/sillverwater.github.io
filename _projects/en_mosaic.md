@@ -5,7 +5,7 @@ lang: en
 permalink: /en/projects/mosaic/
 alt_url: /projects/mosaic/
 importance: 5
-ptype: "Team Project"
+ptype: "Capstone Project"
 img: assets/img/projects/mosaic.jpg
 period: "2023.03 - 2023.10"
 cats: ["Computer Vision"]
