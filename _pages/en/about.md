@@ -51,16 +51,5 @@ nav_order: 1
 </div>
 </div>
 
-<div class="ey-section">
-<h2>Selected Publication</h2>
-<div class="ey-pub">
-  <span class="ey-venue">Sensors</span>
-  <b>Lightweight Deep Learning Model for Classification of Normal and Abnormal Vasculature in Organoid Images</b><br>
-  <span class="ey-authors"><b><u>Eunsu Yun</u></b>, Jongweon Kim, Daesik Jeong</span><br>
-  <span class="ey-meta"><i>Sensors</i>, 26(1), 112, 2026 · SCIE · First author</span><br>
-  <a class="ey-btn" href="https://doi.org/10.3390/s26010112">DOI</a>
-  <a class="ey-btn" href="{{ '/en/publications/' | relative_url }}">All publications</a>
-</div>
-</div>
 
 </div>
