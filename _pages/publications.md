@@ -13,6 +13,13 @@ nav_order: 2
 <div class="ey-section" style="margin-top:0.5rem">
 <h2>학술지</h2>
 <div class="ey-pub">
+  <span class="ey-venue">ASCT</span>
+  <b>On-Device Artificial Intelligence for Image Analysis in Resource-Limited Settings: A Review</b><br>
+  <span class="ey-authors">Chang Xie, Jai Eun An, Hui Jae Bae, <b><u>Eun Su Yun</u></b>, Kyong-Cheol Ko, Dae Sik Jeong, Oh Seok Kwon</span><br>
+  <span class="ey-meta"><i>Applied Science and Convergence Technology</i>, 35(1), 1–14 · 2026.01.30 · Review · 공동저자 (4/7)</span><br>
+  <a class="ey-btn" href="https://doi.org/10.5757/ASCT.2026.35.1.1">DOI</a>
+</div>
+<div class="ey-pub">
   <span class="ey-venue">Sensors</span>
   <b>Lightweight Deep Learning Model for Classification of Normal and Abnormal Vasculature in Organoid Images</b><br>
   <span class="ey-authors"><b><u>Eunsu Yun</u></b>, Jongweon Kim, Daesik Jeong</span><br>
@@ -39,7 +46,7 @@ nav_order: 2
 <div class="ey-pub">
   <span class="ey-venue">ICGHIT 2025</span>
   <b>Hybrid Iris Recognition for Authentication Systems in AI Edge Device (NPU) Environments</b><br>
-  <span class="ey-authors">공동저자 (2/5) · 발표자</span><br>
+  <span class="ey-authors">공동저자 (2/5)</span><br>
   <span class="ey-meta">International Conference on Green and Human Information Technology (ICGHIT) 2025 · 2025.01.15 · Oral Session</span><br>
   <a class="ey-btn" href="{{ '/projects/iris/' | relative_url }}">프로젝트</a>
 </div>
