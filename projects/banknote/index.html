@@ -35,7 +35,6 @@
   .ey-pub .ey-venue { display: inline-block; min-width: 4.8rem; text-align: center; font-size: 0.75rem; font-weight: 700; color: var(--global-bg-color);
     background: var(--global-theme-color); border-radius: 4px; padding: 0.1rem 0.4rem; margin-right: 0.5rem; }
   .ey-pub .ey-authors { font-size: 0.92rem; }
-  .ey-pub .ey-authors b { color: var(--global-text-color); }
   .ey-pub .ey-meta { font-size: 0.9rem; color: var(--global-text-color-light); }
   .ey-btn { display: inline-block; font-size: 0.75rem; padding: 0.05rem 0.55rem; border: 1px solid var(--global-text-color-light); border-radius: 4px;
     margin-right: 0.3rem; color: var(--global-text-color); }
@@ -71,7 +70,8 @@
   @media (max-width: 768px) { .ey-hero { flex-direction: column; } .ey-hero-photo, .ey-hero-photo img { width: 100%; max-width: 200px; flex-basis: auto; height: auto; aspect-ratio: 3 / 4; } }
   .ey-pub-title { margin-bottom: 0.15rem; }
   .ey-pub .ey-authors { font-size: 0.9rem; color: var(--global-text-color-light); }
-  .ey-pub .ey-authors b { color: var(--global-text-color); font-weight: 700; }
+  .ey-pub .ey-authors b { color: #555555; font-weight: 700; }
+  html[data-theme="dark"] .ey-pub .ey-authors b { color: #bdbdbd; }
   .ey-pills { margin: 0.3rem 0 0.25rem; }
   .ey-pill { display: inline-block; font-size: 0.72rem; font-weight: 600; padding: 0.08rem 0.5rem; margin-right: 0.3rem; border-radius: 4px;
     background: rgba(127,127,127,0.14); color: var(--global-text-color); }
