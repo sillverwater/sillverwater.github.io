@@ -23,39 +23,35 @@ nav_order: 2
 <div class="ey-section">
 <h2>학술지</h2>
 <div class="ey-pub">
-  <div class="ey-pub-title"><span class="ey-venue">Sensors</span><b>Lightweight Deep Learning Model for Classification of Normal and Abnormal Vasculature in Organoid Images</b></div>
-  <div class="ey-authors"><b>Eunsu Yun</b>, Jongweon Kim, Daesik Jeong</div>
-  <div class="ey-meta"><i>Sensors</i>, 26(1), 112 · 2025.12.24</div>
-  <div class="ey-pills"><span class="ey-pill">1저자</span><span class="ey-pill">SCIE</span><span class="ey-pill">Q2</span></div>
-  <div class="ey-links"><a href="https://doi.org/10.3390/s26010112">DOI</a> <span class="ey-sep">·</span> <a href="{{ '/projects/organoid/' | relative_url }}">프로젝트</a></div>
-</div>
-<div class="ey-pub">
   <div class="ey-pub-title"><span class="ey-venue">ASCT</span><b>On-Device Artificial Intelligence for Image Analysis in Resource-Limited Settings: A Review</b></div>
   <div class="ey-authors">Chang Xie, Jai Eun An, Hui Jae Bae, <b>Eun Su Yun</b>, Kyong-Cheol Ko, Dae Sik Jeong, Oh Seok Kwon</div>
   <div class="ey-meta"><i>Applied Science and Convergence Technology</i>, 35(1), 1–14 · 2026.01.30</div>
   <div class="ey-pills"><span class="ey-pill">공동저자</span><span class="ey-pill">Review</span></div>
   <div class="ey-links"><a href="https://doi.org/10.5757/ASCT.2026.35.1.1">DOI</a></div>
 </div>
-</div>
-
-<div class="ey-section">
-<h2>국제 학술대회</h2>
 <div class="ey-pub">
-  <div class="ey-pub-title"><span class="ey-venue">ICGHIT 2025</span><b>Hybrid Iris Recognition for Authentication Systems in AI Edge Device (NPU) Environments</b></div>
-  <div class="ey-authors">Hui-Jae Bae, <b>Eun-Su Yun</b>, Seon-Kyun Park, Jong-Weon Kim, Dae-Sik Jung</div>
-  <div class="ey-meta">International Conference on Green and Human Information Technology (ICGHIT) 2025 · 2025.01.15</div>
-  <div class="ey-pills"><span class="ey-pill">공동저자</span><span class="ey-pill">Oral</span></div>
-  <div class="ey-links"><a href="{{ '/projects/iris/' | relative_url }}">프로젝트</a></div>
+  <div class="ey-pub-title"><span class="ey-venue">Sensors</span><b>Lightweight Deep Learning Model for Classification of Normal and Abnormal Vasculature in Organoid Images</b></div>
+  <div class="ey-authors"><b>Eunsu Yun</b>, Jongweon Kim, Daesik Jeong</div>
+  <div class="ey-meta"><i>Sensors</i>, 26(1), 112 · 2025.12.24</div>
+  <div class="ey-pills"><span class="ey-pill">1저자</span><span class="ey-pill">SCIE</span><span class="ey-pill">Q2</span></div>
+  <div class="ey-links"><a href="https://doi.org/10.3390/s26010112">DOI</a> <span class="ey-sep">·</span> <a href="{{ '/projects/organoid/' | relative_url }}">프로젝트</a></div>
 </div>
 </div>
 
 <div class="ey-section">
-<h2>국내 학술대회</h2>
+<h2>학술대회</h2>
 <div class="ey-pub">
   <div class="ey-pub-title"><span class="ey-venue">IEIE 2025</span><b>NPU 기반 실시간 홍채 인식 시스템 구현 및 처리 시간 분석</b></div>
   <div class="ey-authors">배희재, <b>윤은수</b>, 이동원, 박선균, 김성한, 김종원, 정대식</div>
   <div class="ey-meta">2025년도 대한전자공학회 하계종합학술대회 · 2025.06.24</div>
   <div class="ey-pills"><span class="ey-pill">공동 1저자</span></div>
+  <div class="ey-links"><a href="{{ '/projects/iris/' | relative_url }}">프로젝트</a></div>
+</div>
+<div class="ey-pub">
+  <div class="ey-pub-title"><span class="ey-venue">ICGHIT 2025</span><b>Hybrid Iris Recognition for Authentication Systems in AI Edge Device (NPU) Environments</b></div>
+  <div class="ey-authors">Hui-Jae Bae, <b>Eun-Su Yun</b>, Seon-Kyun Park, Jong-Weon Kim, Dae-Sik Jung</div>
+  <div class="ey-meta">International Conference on Green and Human Information Technology (ICGHIT) 2025 · 2025.01.15</div>
+  <div class="ey-pills"><span class="ey-pill">공동저자</span><span class="ey-pill">Oral</span></div>
   <div class="ey-links"><a href="{{ '/projects/iris/' | relative_url }}">프로젝트</a></div>
 </div>
 <div class="ey-pub">
