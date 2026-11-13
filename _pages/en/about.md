@@ -21,15 +21,9 @@ nav_order: 1
       <a href="https://github.com/sillverwater">GitHub</a><span>/</span>
       <a href="{{ '/assets/cv.pdf' | relative_url }}">CV</a>
     </div>
-    <p>Welcome! My work centers on deep learning for computer vision and <b>on-device AI optimization</b>.
-To make models run efficiently on constrained hardware, I have handled the full pipeline myself — from model design to
-<b>compression, quantization (FP16/INT8), NPU deployment, and performance validation</b>.</p>
-<p>I received my M.S. in Computer Science from Sangmyung University, where I worked in the Computer Vision Lab (CCLAB)
-on NPU-based on-device AI projects, including organoid vasculature classification, real-time iris recognition,
-and in-vehicle face and emotion recognition. I have optimized models for several NPUs — FuriosaAI Warboy, Mythic, and Kneron —
-as well as NVIDIA Jetson.</p>
-<p>Recently, I have broadened my interests to <b>Physical AI and robotics</b>, studying robot learning and simulation
-in the NVIDIA AI CAMPUS AI Robotics program, and learning how robots perceive their surroundings and turn that perception into action.</p>
+    <p>I have worked on developing and compressing deep learning models for computer vision, bio-image analysis, and on-device AI.</p>
+<p>I received my M.S. in Computer Science from Sangmyung University, where I worked in the Computer Vision Lab on projects in medical image analysis, iris recognition, and face and emotion recognition. I have optimized models and validated inference performance on various NPUs and NVIDIA Jetson.</p>
+<p>Recently, I have expanded my interests to Physical AI and robotics, and I am studying robot learning and simulation in the Robotics AI program of NVIDIA AI Campus.</p>
   </div>
 </div>
 

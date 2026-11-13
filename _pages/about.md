@@ -21,13 +21,9 @@ nav_order: 1
       <a href="https://github.com/sillverwater">GitHub</a><span>/</span>
       <a href="{{ '/assets/cv.pdf' | relative_url }}">CV</a>
     </div>
-    <p>컴퓨터비전 기반 딥러닝 모델 개발과 <b>온디바이스 AI 최적화</b>를 중심으로 연구해 왔습니다.
-제한된 하드웨어에서도 딥러닝 모델이 효율적으로 동작하도록 모델 설계부터 <b>경량화, 양자화(FP16/INT8), NPU 배포와 성능 검증</b>까지 전 과정을 직접 수행했습니다.</p>
-<p>상명대학교 대학원 컴퓨터과학과에서 석사 학위를 받았으며, Computer Vision 연구실(CCLAB)에서 오가노이드 혈관 이미지 분류,
-실시간 홍채 인식, 차량용 얼굴·감정 인식 등 NPU 기반 온디바이스 AI 프로젝트를 수행했습니다.
-FuriosaAI Warboy, Mythic, Kneron 등 여러 NPU와 NVIDIA Jetson 환경에서 모델을 최적화한 경험이 있습니다.</p>
-<p>최근에는 <b>Physical AI와 로보틱스</b>로 관심을 넓혀, NVIDIA AI CAMPUS AI Robotics 과정에서 로봇 학습과 시뮬레이션 기술을 공부하고 있습니다.
-컴퓨터비전과 온디바이스 AI 경험을 바탕으로, 로봇이 주변 환경을 인식하고 이를 실제 행동으로 연결하는 기술을 익히고 있습니다.</p>
+    <p>컴퓨터비전, 바이오 영상 분석, 온디바이스 AI를 위한 딥러닝 모델 개발 및 경량화 연구를 수행했습니다.</p>
+<p>상명대학교 대학원 컴퓨터과학과에서 석사 학위를 취득했으며, Computer Vision 연구실에서 의료 영상 분석, 홍채 인식, 얼굴 및 감정 인식 프로젝트를 수행했습니다. 다양한 NPU와 NVIDIA Jetson 환경에서 모델 최적화 및 추론 성능을 검증한 경험이 있습니다.</p>
+<p>최근에는 Physical AI와 Robotics 분야로 관심을 확장하여 NVIDIA AI Campus의 Robotics AI 과정에서 로봇 학습과 시뮬레이션 기술을 공부하고 있습니다.</p>
   </div>
 </div>
 
