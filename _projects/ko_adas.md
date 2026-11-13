@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "첨단 운전자 보조 시스템(ADAS) 구현"
-description: "05 | 전공 수업 프로젝트"
 lang: ko
 permalink: /projects/adas/
 alt_url: /en/projects/adas/
@@ -10,12 +9,13 @@ ptype: "팀 프로젝트"
 img: assets/img/projects/adas.jpg
 github: https://github.com/sillverwater/ADAS_Project
 period: "2022.03 - 2022.06"
+cats: ["Computer Vision", "On-Device AI"]
 tags: ["Advanced Driver Assistance Systems", "Object Detection"]
 ---
 
 <p class="ey-sub" style="color:var(--global-text-color-light)">2022.03 - 2022.06</p>
 
-<div class="ey-pills"><span class="ey-pill">Advanced Driver Assistance Systems</span><span class="ey-pill">Object Detection</span></div>
+<div class="ey-pills"><span class="ey-pill ey-pill-main">Computer Vision</span><span class="ey-pill ey-pill-main">On-Device AI</span><span class="ey-pill">Advanced Driver Assistance Systems</span><span class="ey-pill">Object Detection</span></div>
 
 <p><img src="{{ '/assets/img/projects/adas.jpg' | relative_url }}" alt="첨단 운전자 보조 시스템(ADAS) 구현" class="img-fluid rounded z-depth-1" style="width:100%"></p>
 

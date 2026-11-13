@@ -1,20 +1,20 @@
 ---
 layout: page
 title: "Deep Learning-based Banknote Serial Number Recognition Model"
-description: "04 | Undergraduate Research Project"
 lang: en
 permalink: /en/projects/banknote/
 alt_url: /projects/banknote/
 importance: 4
-ptype: "Undergraduate Research"
+ptype: "Independent Research"
 img: assets/img/projects/banknote.jpg
 period: "2023.10 - 2023.12"
+cats: ["Computer Vision"]
 tags: ["Optical Character Recognition", "Text Recognition"]
 ---
 
 <p class="ey-sub" style="color:var(--global-text-color-light)">2023.10 - 2023.12</p>
 
-<div class="ey-pills"><span class="ey-pill">Optical Character Recognition</span><span class="ey-pill">Text Recognition</span></div>
+<div class="ey-pills"><span class="ey-pill ey-pill-main">Computer Vision</span><span class="ey-pill">Optical Character Recognition</span><span class="ey-pill">Text Recognition</span></div>
 
 <p><img src="{{ '/assets/img/projects/banknote.jpg' | relative_url }}" alt="Deep Learning-based Banknote Serial Number Recognition Model" class="img-fluid rounded z-depth-1" style="width:100%"></p>
 
@@ -46,6 +46,10 @@ tags: ["Optical Character Recognition", "Text Recognition"]
   <li>Led the entire study - dataset construction, model development, performance validation</li>
   <li>Paper writing and conference presentation</li>
 </ul>
+</div>
+
+<div class="ey-section"><h2>Related Publications</h2>
+<div class="ey-links"><a href="{{ '/en/publications/#pub-ceic-2023' | relative_url }}">CEIC 2023</a></div>
 </div>
 
 <p style="margin-top:2rem"><a href="{{ '/en/projects/' | relative_url }}">← All projects</a></p>

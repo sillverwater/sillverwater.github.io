@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Advanced Driver Assistance System (ADAS) Implementation"
-description: "05 | Course Project"
 lang: en
 permalink: /en/projects/adas/
 alt_url: /projects/adas/
@@ -10,12 +9,13 @@ ptype: "Team Project"
 img: assets/img/projects/adas.jpg
 github: https://github.com/sillverwater/ADAS_Project
 period: "2022.03 - 2022.06"
+cats: ["Computer Vision", "On-Device AI"]
 tags: ["Advanced Driver Assistance Systems", "Object Detection"]
 ---
 
 <p class="ey-sub" style="color:var(--global-text-color-light)">2022.03 - 2022.06</p>
 
-<div class="ey-pills"><span class="ey-pill">Advanced Driver Assistance Systems</span><span class="ey-pill">Object Detection</span></div>
+<div class="ey-pills"><span class="ey-pill ey-pill-main">Computer Vision</span><span class="ey-pill ey-pill-main">On-Device AI</span><span class="ey-pill">Advanced Driver Assistance Systems</span><span class="ey-pill">Object Detection</span></div>
 
 <p><img src="{{ '/assets/img/projects/adas.jpg' | relative_url }}" alt="Advanced Driver Assistance System (ADAS) Implementation" class="img-fluid rounded z-depth-1" style="width:100%"></p>
 

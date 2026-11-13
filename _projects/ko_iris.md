@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Edge Device(NPU) 환경을 위한 실시간 홍채 인식 시스템"
-description: "03 | 기업 연구과제 (2)"
 lang: ko
 permalink: /projects/iris/
 alt_url: /en/projects/iris/
@@ -9,12 +8,13 @@ importance: 3
 ptype: "산학 연구과제"
 img: assets/img/projects/iris.jpg
 period: "2024.05 - 2024.08"
+cats: ["Computer Vision", "On-Device AI"]
 tags: ["Image Segmentation", "Iris Recognition"]
 ---
 
 <p class="ey-sub" style="color:var(--global-text-color-light)">2024.05 - 2024.08</p>
 
-<div class="ey-pills"><span class="ey-pill">Image Segmentation</span><span class="ey-pill">Iris Recognition</span></div>
+<div class="ey-pills"><span class="ey-pill ey-pill-main">Computer Vision</span><span class="ey-pill ey-pill-main">On-Device AI</span><span class="ey-pill">Image Segmentation</span><span class="ey-pill">Iris Recognition</span></div>
 
 <p><img src="{{ '/assets/img/projects/iris.jpg' | relative_url }}" alt="Edge Device(NPU) 환경을 위한 실시간 홍채 인식 시스템" class="img-fluid rounded z-depth-1" style="width:100%"></p>
 
@@ -47,6 +47,10 @@ tags: ["Image Segmentation", "Iris Recognition"]
   <li>데이터셋 구축, 홍채 Segmentation 모델 개발, NPU 검증</li>
   <li>논문 작성 및 학술대회 발표</li>
 </ul>
+</div>
+
+<div class="ey-section"><h2>관련 논문</h2>
+<div class="ey-links"><a href="{{ '/publications/#pub-ieie-2025' | relative_url }}">IEIE 2025</a> <span class="ey-sep">·</span> <a href="{{ '/publications/#pub-icghit-2025' | relative_url }}">ICGHIT 2025</a></div>
 </div>
 
 <p style="margin-top:2rem"><a href="{{ '/projects/' | relative_url }}">← 프로젝트 목록</a></p>

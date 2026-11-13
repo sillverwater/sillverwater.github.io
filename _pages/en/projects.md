@@ -17,9 +17,8 @@ nav_order: 3
   <div class="ey-pcard-body">
     <div class="ey-pcard-cat">{{ project.ptype }}</div>
     <div class="ey-pcard-title">{{ project.title }}</div>
-    <div class="ey-pcard-desc">{{ project.description }}</div>
     <div class="ey-pcard-period">{{ project.period }}</div>
-    <div class="ey-pills">{% for t in project.tags %}<span class="ey-pill">{{ t }}</span>{% endfor %}</div>
+    <div class="ey-pills">{% for t in project.cats %}<span class="ey-pill ey-pill-main">{{ t }}</span>{% endfor %}{% for t in project.tags %}<span class="ey-pill">{{ t }}</span>{% endfor %}</div>
   </div>
 </a>
 {% endfor %}

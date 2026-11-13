@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "In-Vehicle Face Recognition and Emotion Analysis Service"
-description: "02 | Industry Research Project (1)"
 lang: en
 permalink: /en/projects/face-emotion/
 alt_url: /projects/face-emotion/
@@ -9,12 +8,13 @@ importance: 2
 ptype: "Industry Research"
 img: assets/img/projects/face_emotion.jpg
 period: "2024.09 - 2025.01"
+cats: ["Computer Vision", "On-Device AI"]
 tags: ["Object Detection", "Face Recognition", "Emotion Recognition"]
 ---
 
 <p class="ey-sub" style="color:var(--global-text-color-light)">2024.09 - 2025.01</p>
 
-<div class="ey-pills"><span class="ey-pill">Object Detection</span><span class="ey-pill">Face Recognition</span><span class="ey-pill">Emotion Recognition</span></div>
+<div class="ey-pills"><span class="ey-pill ey-pill-main">Computer Vision</span><span class="ey-pill ey-pill-main">On-Device AI</span><span class="ey-pill">Object Detection</span><span class="ey-pill">Face Recognition</span><span class="ey-pill">Emotion Recognition</span></div>
 
 <p><img src="{{ '/assets/img/projects/face_emotion.jpg' | relative_url }}" alt="In-Vehicle Face Recognition and Emotion Analysis Service" class="img-fluid rounded z-depth-1" style="width:100%"></p>
 

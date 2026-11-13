@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "차량용 얼굴 인식 및 감정 분석 서비스"
-description: "02 | 기업 연구과제 (1)"
 lang: ko
 permalink: /projects/face-emotion/
 alt_url: /en/projects/face-emotion/
@@ -9,12 +8,13 @@ importance: 2
 ptype: "산학 연구과제"
 img: assets/img/projects/face_emotion.jpg
 period: "2024.09 - 2025.01"
+cats: ["Computer Vision", "On-Device AI"]
 tags: ["Object Detection", "Face Recognition", "Emotion Recognition"]
 ---
 
 <p class="ey-sub" style="color:var(--global-text-color-light)">2024.09 - 2025.01</p>
 
-<div class="ey-pills"><span class="ey-pill">Object Detection</span><span class="ey-pill">Face Recognition</span><span class="ey-pill">Emotion Recognition</span></div>
+<div class="ey-pills"><span class="ey-pill ey-pill-main">Computer Vision</span><span class="ey-pill ey-pill-main">On-Device AI</span><span class="ey-pill">Object Detection</span><span class="ey-pill">Face Recognition</span><span class="ey-pill">Emotion Recognition</span></div>
 
 <p><img src="{{ '/assets/img/projects/face_emotion.jpg' | relative_url }}" alt="차량용 얼굴 인식 및 감정 분석 서비스" class="img-fluid rounded z-depth-1" style="width:100%"></p>
 
