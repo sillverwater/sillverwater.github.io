@@ -10,20 +10,12 @@ nav: true
 nav_order: 3
 ---
 
-<div class="ey-tabs" role="tablist">
-  <button class="ey-tab active" data-filter="all">전체</button>
-  <button class="ey-tab" data-filter="on-device-ai">온디바이스 AI</button>
-  <button class="ey-tab" data-filter="computer-vision">컴퓨터 비전</button>
-  <button class="ey-tab" data-filter="others">기타</button>
-</div>
-
 <div class="ey-plist">
-{% assign cats = "On-device AI|Computer Vision|Others" | split: "|" %}
+{% assign cats = "On-device AI|Computer Vision" | split: "|" %}
 {% for c in cats %}{% assign ps = site.projects | where: "lang", "ko" | where: "category", c | sort: "importance" %}{% for project in ps %}
 <a class="ey-pcard" data-cat="{{ project.category | slugify }}" href="{{ project.url | relative_url }}">
   {% if project.img %}<div class="ey-pcard-img"><img src="{{ project.img | prepend: '/' | relative_url }}" alt="{{ project.title }}" loading="lazy"></div>{% endif %}
   <div class="ey-pcard-body">
-    <div class="ey-pcard-cat">{{ project.category }}</div>
     <div class="ey-pcard-title">{{ project.title }}</div>
     <div class="ey-pcard-desc">{{ project.description }}</div>
     <div class="ey-pcard-period">{{ project.period }}</div>
@@ -33,16 +25,3 @@ nav_order: 3
 {% endfor %}{% endfor %}
 </div>
 
-<script>
-  (function () {
-    var tabs = document.querySelectorAll(".ey-tab");
-    var cards = document.querySelectorAll(".ey-pcard");
-    function apply(f) {
-      tabs.forEach(function (t) { t.classList.toggle("active", t.getAttribute("data-filter") === f); });
-      cards.forEach(function (c) { c.style.display = f === "all" || c.getAttribute("data-cat") === f ? "" : "none"; });
-    }
-    tabs.forEach(function (t) { t.addEventListener("click", function () { apply(t.getAttribute("data-filter")); history.replaceState(null, "", "#" + t.getAttribute("data-filter")); }); });
-    var h = location.hash.replace("#", "");
-    if (h && document.querySelector('.ey-tab[data-filter="' + h + '"]')) apply(h);
-  })();
-</script>
