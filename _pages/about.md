@@ -59,7 +59,7 @@ nav_order: 1
 </div>
 <div class="ey-item">
   <div class="ey-date">2024.05 – 2024.08</div>
-  <div class="ey-body"><div class="ey-title"><a href="{{ '/projects/iris/' | relative_url }}">Edge Device 환경을 위한 실시간 홍채 인식 시스템 개발</a></div><div class="ey-sub">(주)현대엠아이비인터내셔널 · 상명대학교</div></div>
+  <div class="ey-body"><div class="ey-title"><a href="{{ '/projects/iris/' | relative_url }}">NPU 기반 실시간 홍채인식 시스템 개발</a></div><div class="ey-sub">(주)현대엠아이비인터내셔널 · 상명대학교</div></div>
 </div>
 </div>
 
@@ -67,7 +67,7 @@ nav_order: 1
 <h2>수상</h2>
 <div class="ey-item">
   <div class="ey-date">2023.09</div>
-  <div class="ey-body"><div class="ey-title">장려상 — 지질자원데이터 활용 및 인공지능 경진대회, AI 모형 개발(해커톤) 부문</div><div class="ey-sub">한국지질자원연구원</div></div>
+  <div class="ey-body"><div class="ey-title">한국지질자원연구원장상</div><div class="ey-sub">지질자원데이터 활용 및 인공지능 경진대회 AI 모형 개발(해커톤) 부문 장려상</div></div>
 </div>
 </div>
 
@@ -81,7 +81,7 @@ nav_order: 1
 
 <div class="ey-section">
 <h2>교육</h2>
-<div class="ey-item"><div class="ey-date">2026.10 – 2027.04</div><div class="ey-body"><div class="ey-title">NVIDIA AI CAMPUS — AI Robotics 과정</div><div class="ey-sub">엑스와이지 (XYZ) · 로봇 학습 · 시뮬레이션</div></div></div>
+<div class="ey-item"><div class="ey-date">2026.10 – 2027.04</div><div class="ey-body"><div class="ey-title">NVIDIA AI CAMPUS — AI Robotics 과정</div><div class="ey-sub">(주)한컴이노스트림</div></div></div>
 <div class="ey-item"><div class="ey-date">2026.04 – 2026.06</div><div class="ey-body"><div class="ey-title">H-모빌리티 클래스 자율주행 인지 Track</div><div class="ey-sub">현대엔지비</div></div></div>
 <div class="ey-item"><div class="ey-date">2022.09 – 2022.12</div><div class="ey-body"><div class="ey-title">KT AI+X 선도인재양성 프로그램</div><div class="ey-sub">KT · 상명대학교</div></div></div>
 </div>
