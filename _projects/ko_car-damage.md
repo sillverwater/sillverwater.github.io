@@ -6,6 +6,7 @@ permalink: /projects/car-damage/
 alt_url: /en/projects/car-damage/
 importance: 6
 ptype: "팀 프로젝트"
+img: assets/img/projects/car_damage.jpg
 period: "2022.09 - 2022.12"
 cats: ["Computer Vision"]
 tags: ["Image Segmentation", "U-Net"]
@@ -15,7 +16,7 @@ tags: ["Image Segmentation", "U-Net"]
 
 <div class="ey-pills"><span class="ey-pill ey-pill-main">Computer Vision</span><span class="ey-pill">Image Segmentation</span><span class="ey-pill">U-Net</span></div>
 
-
+<p><img src="{{ '/assets/img/projects/car_damage.jpg' | relative_url }}" alt="차량 파손 검출 프로젝트" class="img-fluid rounded z-depth-1" style="width:100%"></p>
 
 <div class="ey-section"><h2>연구 배경</h2>
 <ul>
