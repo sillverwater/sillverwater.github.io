@@ -129,6 +129,9 @@
             {% endif %}
           {% endfor %}
           <li class="nav-item">
+            <a class="nav-link" href="{{ '/assets/cv.pdf' | relative_url }}" target="_blank" rel="noopener">CV</a>
+          </li>
+          <li class="nav-item">
             <span class="nav-link lang-switch">
               {% if cur_lang == 'en' %}
                 <a class="off" href="{{ alt_url | relative_url }}" lang="ko" title="한국어로 보기">KO</a>|<span class="on">EN</span>

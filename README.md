@@ -16,10 +16,10 @@ Source code for my personal academic portfolio.
 
 | Page | Description |
 |---|---|
-| **About** | Introduction, research interests, education, selected publication |
+| **About** | Introduction, education, research experience, projects, awards, certifications, skills |
 | **Publications** | SCIE journal article (*Sensors*, first author), M.S. thesis, conference papers |
 | **Projects** | Research projects grouped by topic — On-device AI, Computer Vision, Others |
-| **CV** | Education, research experience, industry projects, awards, certifications, skills |
+| **CV** | PDF download (education, experience, awards, certifications, skills are on About) |
 
 ### Featured projects
 
