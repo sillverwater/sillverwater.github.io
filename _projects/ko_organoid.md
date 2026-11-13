@@ -6,7 +6,7 @@ lang: ko
 permalink: /projects/organoid/
 alt_url: /en/projects/organoid/
 importance: 1
-ptype: "졸업 관련"
+ptype: "학위 연구"
 img: assets/img/projects/organoid.jpg
 period: "2025.06 - 2026.01"
 tags: ["Image Classification", "Lightweight Deep Learning"]

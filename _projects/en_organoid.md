@@ -6,7 +6,7 @@ lang: en
 permalink: /en/projects/organoid/
 alt_url: /projects/organoid/
 importance: 1
-ptype: "Graduation"
+ptype: "Thesis Research"
 img: assets/img/projects/organoid.jpg
 period: "2025.06 - 2026.01"
 tags: ["Image Classification", "Lightweight Deep Learning"]

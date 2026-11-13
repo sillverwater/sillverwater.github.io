@@ -6,7 +6,7 @@ lang: ko
 permalink: /projects/iris/
 alt_url: /en/projects/iris/
 importance: 3
-ptype: "연구 용역 과제"
+ptype: "산학 연구과제"
 img: assets/img/projects/iris.jpg
 period: "2024.05 - 2024.08"
 tags: ["Image Segmentation", "Iris Recognition"]

@@ -6,7 +6,7 @@ lang: en
 permalink: /en/projects/iris/
 alt_url: /projects/iris/
 importance: 3
-ptype: "Contract Research"
+ptype: "Industry Research"
 img: assets/img/projects/iris.jpg
 period: "2024.05 - 2024.08"
 tags: ["Image Segmentation", "Iris Recognition"]

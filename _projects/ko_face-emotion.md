@@ -6,7 +6,7 @@ lang: ko
 permalink: /projects/face-emotion/
 alt_url: /en/projects/face-emotion/
 importance: 2
-ptype: "연구 용역 과제"
+ptype: "산학 연구과제"
 img: assets/img/projects/face_emotion.jpg
 period: "2024.09 - 2025.01"
 tags: ["Object Detection", "Face Recognition", "Emotion Recognition"]

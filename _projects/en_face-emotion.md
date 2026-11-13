@@ -6,7 +6,7 @@ lang: en
 permalink: /en/projects/face-emotion/
 alt_url: /projects/face-emotion/
 importance: 2
-ptype: "Contract Research"
+ptype: "Industry Research"
 img: assets/img/projects/face_emotion.jpg
 period: "2024.09 - 2025.01"
 tags: ["Object Detection", "Face Recognition", "Emotion Recognition"]
