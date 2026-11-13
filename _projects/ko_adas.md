@@ -4,7 +4,7 @@ title: "첨단 운전자 보조 시스템(ADAS) 구현"
 lang: ko
 permalink: /projects/adas/
 alt_url: /en/projects/adas/
-importance: 5
+importance: 6
 ptype: "팀 프로젝트"
 img: assets/img/projects/adas.jpg
 github: https://github.com/sillverwater/ADAS_Project
