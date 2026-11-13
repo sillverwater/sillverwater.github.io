@@ -5,7 +5,7 @@ lang: en
 permalink: /en/projects/iris/
 alt_url: /projects/iris/
 importance: 3
-ptype: "Industry Research"
+ptype: "Industry Collaboration"
 img: assets/img/projects/iris.jpg
 period: "2024.05 - 2024.08"
 cats: ["Computer Vision", "On-Device AI"]

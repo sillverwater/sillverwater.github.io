@@ -5,7 +5,7 @@ lang: en
 permalink: /en/projects/face-emotion/
 alt_url: /projects/face-emotion/
 importance: 2
-ptype: "Industry Research"
+ptype: "Industry Collaboration"
 img: assets/img/projects/face_emotion.jpg
 period: "2024.09 - 2025.01"
 cats: ["Computer Vision", "On-Device AI"]

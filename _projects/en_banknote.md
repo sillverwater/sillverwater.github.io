@@ -5,7 +5,7 @@ lang: en
 permalink: /en/projects/banknote/
 alt_url: /projects/banknote/
 importance: 4
-ptype: "Independent Research"
+ptype: "Industry Collaboration"
 img: assets/img/projects/banknote.jpg
 period: "2023.10 - 2023.12"
 cats: ["Computer Vision"]

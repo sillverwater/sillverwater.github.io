@@ -5,7 +5,7 @@ lang: ko
 permalink: /projects/face-emotion/
 alt_url: /en/projects/face-emotion/
 importance: 2
-ptype: "산학 연구과제"
+ptype: "산학 협력"
 img: assets/img/projects/face_emotion.jpg
 period: "2024.09 - 2025.01"
 cats: ["Computer Vision", "On-Device AI"]

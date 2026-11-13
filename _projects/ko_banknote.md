@@ -5,7 +5,7 @@ lang: ko
 permalink: /projects/banknote/
 alt_url: /en/projects/banknote/
 importance: 4
-ptype: "개인 연구"
+ptype: "산학 협력"
 img: assets/img/projects/banknote.jpg
 period: "2023.10 - 2023.12"
 cats: ["Computer Vision"]
