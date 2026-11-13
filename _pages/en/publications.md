@@ -26,8 +26,8 @@ nav_order: 2
   <div class="ey-pub-title"><span class="ey-venue">Sensors</span><b>Lightweight Deep Learning Model for Classification of Normal and Abnormal Vasculature in Organoid Images</b></div>
   <div class="ey-authors"><b>Eunsu Yun</b>, Jongweon Kim, Daesik Jeong</div>
   <div class="ey-meta"><i>Sensors</i>, 26(1), 112 · Dec 24, 2025</div>
-  <div class="ey-pills"><span class="ey-pill">First Author</span><span class="ey-pill">SCIE</span><span class="ey-pill">Q2</span><span class="ey-pill">IF 4.00</span></div>
-  <div class="ey-links"><a href="https://doi.org/10.3390/s26010112">DOI</a> <span class="ey-sep">·</span> <a href="https://www.mdpi.com/1424-8220/26/1/112">MDPI</a> <span class="ey-sep">·</span> <a href="{{ '/en/projects/organoid/' | relative_url }}">Project</a></div>
+  <div class="ey-pills"><span class="ey-pill">First Author</span><span class="ey-pill">SCIE</span><span class="ey-pill">Q2</span></div>
+  <div class="ey-links"><a href="https://doi.org/10.3390/s26010112">DOI</a> <span class="ey-sep">·</span> <a href="{{ '/en/projects/organoid/' | relative_url }}">Project</a></div>
 </div>
 <div class="ey-pub">
   <div class="ey-pub-title"><span class="ey-venue">ASCT</span><b>On-Device Artificial Intelligence for Image Analysis in Resource-Limited Settings: A Review</b></div>
