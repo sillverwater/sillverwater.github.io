@@ -69,7 +69,7 @@ nav_order: 2
   <div class="ey-pub-title"><span class="ey-venue">CEIC 2023</span><b>딥러닝 기반의 지폐 일련번호 인식에 관한 연구</b></div>
   <div class="ey-authors"><b>윤은수</b>, 정대식</div>
   <div class="ey-meta">제25회 전자정보통신학술대회 (CEIC 2023) · 2023.12.08</div>
-  <div class="ey-pills"><span class="ey-pill">1저자</span><span class="ey-pill">Poster</span></div>
+  <div class="ey-pills"><span class="ey-pill">1저자</span></div>
   <div class="ey-links"><a href="{{ '/projects/banknote/' | relative_url }}">프로젝트</a></div>
 </div>
 <div class="ey-pub">

@@ -69,7 +69,7 @@ nav_order: 2
   <div class="ey-pub-title"><span class="ey-venue">CEIC 2023</span><b>A Study on deep learning based banknote serial number recognition</b></div>
   <div class="ey-authors"><b>Eunsu Yun</b>, Daesik Jeong</div>
   <div class="ey-meta">The 25th Conference on Electronics, Information and Communications (CEIC 2023) · Dec 8, 2023</div>
-  <div class="ey-pills"><span class="ey-pill">First Author</span><span class="ey-pill">Poster</span></div>
+  <div class="ey-pills"><span class="ey-pill">First Author</span></div>
   <div class="ey-links"><a href="{{ '/en/projects/banknote/' | relative_url }}">Project</a></div>
 </div>
 <div class="ey-pub">
